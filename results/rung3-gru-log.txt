@@ -1,0 +1,132 @@
+[gru h64 lr0.003 s0] epoch 1 train 2.6320 monitor valid 2.4389 | 19 s
+[gru h64 lr0.001 s0] epoch 1 train 2.9617 monitor valid 2.6534 | 19 s
+[gru h64 lr0.003 s0] epoch 2 train 2.3162 monitor valid 2.3598 | 39 s
+[gru h64 lr0.001 s0] epoch 2 train 2.5081 monitor valid 2.5018 | 39 s
+[gru h64 lr0.003 s0] epoch 3 train 2.2610 monitor valid 2.3313 | 60 s
+[gru h64 lr0.001 s0] epoch 3 train 2.4013 monitor valid 2.4378 | 60 s
+[gru h64 lr0.003 s0] epoch 4 train 2.2358 monitor valid 2.3151 | 80 s
+[gru h64 lr0.001 s0] epoch 4 train 2.3471 monitor valid 2.4016 | 80 s
+[gru h64 lr0.003 s0] epoch 5 train 2.2205 monitor valid 2.3042 | 100 s
+[gru h64 lr0.001 s0] epoch 5 train 2.3132 monitor valid 2.3788 | 100 s
+[gru h64 lr0.003 s0] epoch 6 train 2.2032 monitor valid 2.2794 | 120 s
+[gru h64 lr0.001 s0] epoch 6 train 2.2958 monitor valid 2.3657 | 120 s
+[gru h64 lr0.003 s0] epoch 7 train 2.1981 monitor valid 2.2766 | 136 s
+[gru h64 lr0.001 s0] epoch 7 train 2.2895 monitor valid 2.3612 | 137 s
+[gru h64 lr0.003 s0] epoch 8 train 2.1950 monitor valid 2.2674 | 156 s
+[gru h64 lr0.001 s0] epoch 8 train 2.2863 monitor valid 2.3564 | 157 s
+[gru h64 lr0.003 s0] epoch 9 train 2.1932 monitor valid 2.2666 | 177 s
+[gru h64 lr0.001 s0] epoch 9 train 2.2846 monitor valid 2.3553 | 177 s
+[gru h64 lr0.003 s0] epoch 10 train 2.1922 monitor valid 2.2660 | 197 s
+[gru h64 lr0.001 s0] epoch 10 train 2.2833 monitor valid 2.3543 | 197 s
+[gru h64 lr0.003 s0] FINAL valid 2.2660 test 2.2386
+[gru h64 lr0.001 s0] FINAL valid 2.3543 test 2.3094
+[gru h64 lr0.003 s1] epoch 1 train 2.6392 monitor valid 2.4403 | 16 s
+[gru h64 lr0.003 s2] epoch 1 train 2.6366 monitor valid 2.4431 | 16 s
+[gru h64 lr0.003 s1] epoch 2 train 2.3119 monitor valid 2.3620 | 36 s
+[gru h64 lr0.003 s2] epoch 2 train 2.3171 monitor valid 2.3619 | 36 s
+[gru h64 lr0.003 s1] epoch 3 train 2.2585 monitor valid 2.3328 | 56 s
+[gru h64 lr0.003 s2] epoch 3 train 2.2621 monitor valid 2.3279 | 56 s
+[gru h64 lr0.003 s1] epoch 4 train 2.2331 monitor valid 2.3160 | 76 s
+[gru h64 lr0.003 s2] epoch 4 train 2.2350 monitor valid 2.3106 | 76 s
+[gru h64 lr0.003 s1] epoch 5 train 2.2174 monitor valid 2.3026 | 96 s
+[gru h64 lr0.003 s2] epoch 5 train 2.2186 monitor valid 2.2998 | 96 s
+[gru h64 lr0.003 s1] epoch 6 train 2.2000 monitor valid 2.2782 | 116 s
+[gru h64 lr0.003 s2] epoch 6 train 2.2013 monitor valid 2.2764 | 117 s
+[gru h64 lr0.003 s1] epoch 7 train 2.1950 monitor valid 2.2752 | 135 s
+[gru h64 lr0.003 s2] epoch 7 train 2.1962 monitor valid 2.2738 | 135 s
+[gru h64 lr0.003 s1] epoch 8 train 2.1917 monitor valid 2.2656 | 153 s
+[gru h64 lr0.003 s2] epoch 8 train 2.1931 monitor valid 2.2646 | 153 s
+[gru h64 lr0.003 s1] epoch 9 train 2.1899 monitor valid 2.2647 | 173 s
+[gru h64 lr0.003 s2] epoch 9 train 2.1914 monitor valid 2.2639 | 174 s
+[gru h64 lr0.003 s1] epoch 10 train 2.1890 monitor valid 2.2640 | 194 s
+[gru h64 lr0.003 s2] epoch 10 train 2.1904 monitor valid 2.2633 | 194 s
+[gru h64 lr0.003 s2] FINAL valid 2.2633 test 2.2332
+[gru h64 lr0.003 s1] FINAL valid 2.2640 test 2.2362
+[gru h128 lr0.003 s0] epoch 1 train 2.4291 monitor valid 2.2319 | 30 s
+[gru h128 lr0.001 s0] epoch 1 train 2.7898 monitor valid 2.4540 | 30 s
+[gru h128 lr0.003 s0] epoch 2 train 2.0802 monitor valid 2.1513 | 65 s
+[gru h128 lr0.001 s0] epoch 2 train 2.2781 monitor valid 2.2821 | 65 s
+[gru h128 lr0.003 s0] epoch 3 train 2.0238 monitor valid 2.1216 | 101 s
+[gru h128 lr0.001 s0] epoch 3 train 2.1581 monitor valid 2.2121 | 101 s
+[gru h128 lr0.003 s0] epoch 4 train 1.9976 monitor valid 2.1064 | 136 s
+[gru h128 lr0.001 s0] epoch 4 train 2.0998 monitor valid 2.1742 | 136 s
+[gru h128 lr0.003 s0] epoch 5 train 1.9820 monitor valid 2.0977 | 165 s
+[gru h128 lr0.001 s0] epoch 5 train 2.0644 monitor valid 2.1497 | 166 s
+[gru h128 lr0.003 s0] epoch 6 train 1.9526 monitor valid 2.0561 | 201 s
+[gru h128 lr0.001 s0] epoch 6 train 2.0411 monitor valid 2.1280 | 201 s
+[gru h128 lr0.003 s0] epoch 7 train 1.9441 monitor valid 2.0528 | 236 s
+[gru h128 lr0.001 s0] epoch 7 train 2.0332 monitor valid 2.1230 | 237 s
+[gru h128 lr0.003 s0] epoch 8 train 1.9379 monitor valid 2.0392 | 271 s
+[gru h128 lr0.001 s0] epoch 8 train 2.0287 monitor valid 2.1161 | 272 s
+[gru h128 lr0.001 s0] epoch 9 train 2.0265 monitor valid 2.1149 | 302 s
+[gru h128 lr0.003 s0] epoch 9 train 1.9349 monitor valid 2.0379 | 314 s
+[gru h128 lr0.001 s0] epoch 10 train 2.0249 monitor valid 2.1137 | 335 s
+[gru h128 lr0.003 s0] epoch 10 train 1.9334 monitor valid 2.0372 | 391 s
+[gru h128 lr0.001 s0] FINAL valid 2.1137 test 2.0919
+[gru h128 lr0.003 s0] FINAL valid 2.0372 test 2.0215
+[gru h128 lr0.003 s2] epoch 1 train 2.4455 monitor valid 2.2429 | 36 s
+[gru h128 lr0.003 s1] epoch 1 train 2.4426 monitor valid 2.2352 | 36 s
+[gru h128 lr0.003 s2] epoch 2 train 2.0869 monitor valid 2.1578 | 71 s
+[gru h128 lr0.003 s1] epoch 2 train 2.0817 monitor valid 2.1497 | 71 s
+[gru h128 lr0.003 s2] epoch 3 train 2.0277 monitor valid 2.1255 | 100 s
+[gru h128 lr0.003 s1] epoch 3 train 2.0233 monitor valid 2.1210 | 101 s
+[gru h128 lr0.003 s2] epoch 4 train 2.0002 monitor valid 2.1095 | 136 s
+[gru h128 lr0.003 s1] epoch 4 train 1.9962 monitor valid 2.1037 | 136 s
+[gru h128 lr0.003 s2] epoch 5 train 1.9837 monitor valid 2.0994 | 172 s
+[gru h128 lr0.003 s1] epoch 5 train 1.9800 monitor valid 2.0926 | 172 s
+[gru h128 lr0.003 s2] epoch 6 train 1.9540 monitor valid 2.0550 | 207 s
+[gru h128 lr0.003 s1] epoch 6 train 1.9500 monitor valid 2.0502 | 208 s
+[gru h128 lr0.003 s2] epoch 7 train 1.9455 monitor valid 2.0516 | 236 s
+[gru h128 lr0.003 s1] epoch 7 train 1.9415 monitor valid 2.0467 | 236 s
+[gru h128 lr0.003 s2] epoch 8 train 1.9392 monitor valid 2.0377 | 272 s
+[gru h128 lr0.003 s1] epoch 8 train 1.9350 monitor valid 2.0329 | 272 s
+[gru h128 lr0.003 s2] epoch 9 train 1.9362 monitor valid 2.0366 | 307 s
+[gru h128 lr0.003 s1] epoch 9 train 1.9320 monitor valid 2.0319 | 308 s
+[gru h128 lr0.003 s2] epoch 10 train 1.9346 monitor valid 2.0358 | 343 s
+[gru h128 lr0.003 s1] epoch 10 train 1.9305 monitor valid 2.0312 | 343 s
+[gru h128 lr0.003 s1] FINAL valid 2.0312 test 2.0129
+[gru h128 lr0.003 s2] FINAL valid 2.0358 test 2.0185
+[gru h292 lr0.001 s0] epoch 1 train 2.5889 monitor valid 2.2463 | 59 s
+[gru h292 lr0.003 s0] epoch 1 train 2.2390 monitor valid 2.0692 | 59 s
+[gru h292 lr0.001 s0] epoch 2 train 2.0490 monitor valid 2.0836 | 129 s
+[gru h292 lr0.003 s0] epoch 2 train 1.8966 monitor valid 1.9967 | 129 s
+[gru h292 lr0.001 s0] epoch 3 train 1.9360 monitor valid 2.0231 | 221 s
+[gru h292 lr0.003 s0] epoch 3 train 1.8424 monitor valid 1.9717 | 222 s
+[gru h292 lr0.003 s0] epoch 4 train 1.8168 monitor valid 1.9584 | 342 s
+[gru h292 lr0.001 s0] epoch 4 train 1.8815 monitor valid 1.9907 | 343 s
+[gru h292 lr0.003 s0] epoch 5 train 1.8016 monitor valid 1.9513 | 461 s
+[gru h292 lr0.001 s0] epoch 5 train 1.8478 monitor valid 1.9705 | 463 s
+[gru h292 lr0.003 s0] epoch 6 train 1.7535 monitor valid 1.8890 | 579 s
+[gru h292 lr0.001 s0] epoch 6 train 1.8118 monitor valid 1.9364 | 582 s
+[gru h292 lr0.003 s0] epoch 7 train 1.7361 monitor valid 1.8848 | 697 s
+[gru h292 lr0.001 s0] epoch 7 train 1.8012 monitor valid 1.9319 | 700 s
+[gru h292 lr0.003 s0] epoch 8 train 1.7229 monitor valid 1.8676 | 815 s
+[gru h292 lr0.001 s0] epoch 8 train 1.7932 monitor valid 1.9205 | 823 s
+[gru h292 lr0.003 s0] epoch 9 train 1.7167 monitor valid 1.8663 | 938 s
+[gru h292 lr0.001 s0] epoch 9 train 1.7897 monitor valid 1.9192 | 946 s
+[gru h292 lr0.003 s0] epoch 10 train 1.7135 monitor valid 1.8657 | 1062 s
+[gru h292 lr0.001 s0] epoch 10 train 1.7876 monitor valid 1.9182 | 1073 s
+[gru h292 lr0.003 s0] FINAL valid 1.8657 test 1.8500
+[gru h292 lr0.001 s0] FINAL valid 1.9182 test 1.9023
+[gru h292 lr0.003 s1] epoch 1 train 2.2362 monitor valid 2.0644 | 79 s
+[gru h292 lr0.003 s2] epoch 1 train 2.2368 monitor valid 2.0704 | 79 s
+[gru h292 lr0.003 s1] epoch 2 train 1.8920 monitor valid 1.9903 | 167 s
+[gru h292 lr0.003 s2] epoch 2 train 1.8990 monitor valid 2.0003 | 167 s
+[gru h292 lr0.003 s1] epoch 3 train 1.8379 monitor valid 1.9656 | 290 s
+[gru h292 lr0.003 s2] epoch 3 train 1.8472 monitor valid 1.9783 | 292 s
+[gru h292 lr0.003 s1] epoch 4 train 1.8123 monitor valid 1.9521 | 359 s
+[gru h292 lr0.003 s2] epoch 4 train 1.8225 monitor valid 1.9659 | 360 s
+[gru h292 lr0.003 s1] epoch 5 train 1.7970 monitor valid 1.9436 | 428 s
+[gru h292 lr0.003 s2] epoch 5 train 1.8086 monitor valid 1.9553 | 429 s
+[gru h292 lr0.003 s1] epoch 6 train 1.7476 monitor valid 1.8814 | 497 s
+[gru h292 lr0.003 s2] epoch 6 train 1.7596 monitor valid 1.8938 | 499 s
+[gru h292 lr0.003 s1] epoch 7 train 1.7297 monitor valid 1.8780 | 606 s
+[gru h292 lr0.003 s2] epoch 7 train 1.7416 monitor valid 1.8899 | 608 s
+[gru h292 lr0.003 s1] epoch 8 train 1.7163 monitor valid 1.8599 | 725 s
+[gru h292 lr0.003 s2] epoch 8 train 1.7279 monitor valid 1.8708 | 727 s
+[gru h292 lr0.003 s1] epoch 9 train 1.7100 monitor valid 1.8587 | 845 s
+[gru h292 lr0.003 s2] epoch 9 train 1.7216 monitor valid 1.8695 | 846 s
+[gru h292 lr0.003 s1] epoch 10 train 1.7068 monitor valid 1.8581 | 964 s
+[gru h292 lr0.003 s2] epoch 10 train 1.7184 monitor valid 1.8688 | 965 s
+[gru h292 lr0.003 s1] FINAL valid 1.8581 test 1.8435
+[gru h292 lr0.003 s2] FINAL valid 1.8688 test 1.8555

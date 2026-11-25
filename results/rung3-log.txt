@@ -1,0 +1,108 @@
+[S-onehot-s0] params 289819 g_in 4.1812 initial rate 0.1000
+[S-onehot-s0] epoch  1 lr 0.01000 train 2.6551 rate 0.0804 | monitor valid 2.6244 | 130 s
+[S-onehot-s0] epoch  2 lr 0.01000 train 2.5036 rate 0.0785 | monitor valid 2.5721 | 259 s
+[S-onehot-s0] epoch  3 lr 0.01000 train 2.4603 rate 0.0782 | monitor valid 2.5384 | 387 s
+[S-onehot-s0] epoch  4 lr 0.01000 train 2.4326 rate 0.0781 | monitor valid 2.5116 | 516 s
+[S-onehot-s0] epoch  5 lr 0.01000 train 2.4120 rate 0.0781 | monitor valid 2.4993 | 643 s
+[S-onehot-s0] epoch  6 lr 0.00250 train 2.3408 rate 0.0818 | monitor valid 2.4165 | 771 s
+[S-onehot-s0] epoch  7 lr 0.00250 train 2.3269 rate 0.0839 | monitor valid 2.4107 | 904 s
+[S-onehot-s0] epoch  8 lr 0.00062 train 2.3064 rate 0.0860 | monitor valid 2.3849 | 1035 s
+[S-onehot-s0] epoch  9 lr 0.00062 train 2.3019 rate 0.0871 | monitor valid 2.3832 | 1164 s
+[S-onehot-s0] epoch 10 lr 0.00062 train 2.2986 rate 0.0879 | monitor valid 2.3807 | 1295 s
+[S-onehot-s0] FINAL valid 2.3827 test 2.3396 (SE 0.0031) rate 0.0879 | 1509 s
+[S-sparse-s0] params 292379 g_in 3.5263 initial rate 0.1000
+[S-sparse-s0] epoch  1 lr 0.01000 train 2.6823 rate 0.0820 | monitor valid 2.6639 | 133 s
+[S-sparse-s0] epoch  2 lr 0.01000 train 2.5295 rate 0.0802 | monitor valid 2.5944 | 261 s
+[S-sparse-s0] epoch  3 lr 0.01000 train 2.4815 rate 0.0803 | monitor valid 2.5467 | 389 s
+[S-sparse-s0] epoch  4 lr 0.01000 train 2.4513 rate 0.0801 | monitor valid 2.5352 | 517 s
+[S-sparse-s0] epoch  5 lr 0.01000 train 2.4298 rate 0.0802 | monitor valid 2.5104 | 645 s
+[S-sparse-s0] epoch  6 lr 0.00250 train 2.3574 rate 0.0831 | monitor valid 2.4316 | 773 s
+[S-sparse-s0] epoch  7 lr 0.00250 train 2.3451 rate 0.0848 | monitor valid 2.4267 | 903 s
+[S-sparse-s0] epoch  8 lr 0.00062 train 2.3245 rate 0.0865 | monitor valid 2.4020 | 1036 s
+[S-sparse-s0] epoch  9 lr 0.00062 train 2.3204 rate 0.0873 | monitor valid 2.4012 | 1167 s
+[S-sparse-s0] epoch 10 lr 0.00062 train 2.3175 rate 0.0882 | monitor valid 2.3993 | 1297 s
+[S-sparse-s0] FINAL valid 2.4002 test 2.3548 (SE 0.0030) rate 0.0881 | 1511 s
+[S-artic-s0] params 287259 g_in 3.0951 initial rate 0.1000
+[S-artic-s0] epoch  1 lr 0.01000 train 2.7627 rate 0.0772 | monitor valid 2.7281 | 131 s
+[S-artic-s0] epoch  2 lr 0.01000 train 2.6083 rate 0.0751 | monitor valid 2.6605 | 259 s
+[S-artic-s0] epoch  3 lr 0.01000 train 2.5594 rate 0.0752 | monitor valid 2.6191 | 386 s
+[S-artic-s0] epoch  4 lr 0.01000 train 2.5286 rate 0.0753 | monitor valid 2.5929 | 516 s
+[S-artic-s0] epoch  5 lr 0.01000 train 2.5046 rate 0.0755 | monitor valid 2.5819 | 639 s
+[S-artic-s0] epoch  6 lr 0.00250 train 2.4335 rate 0.0787 | monitor valid 2.5041 | 761 s
+[S-artic-s0] epoch  7 lr 0.00250 train 2.4202 rate 0.0805 | monitor valid 2.4986 | 883 s
+[S-artic-s0] epoch  8 lr 0.00062 train 2.3993 rate 0.0825 | monitor valid 2.4708 | 1006 s
+[S-artic-s0] epoch  9 lr 0.00062 train 2.3947 rate 0.0834 | monitor valid 2.4685 | 1129 s
+[S-artic-s0] epoch 10 lr 0.00062 train 2.3922 rate 0.0844 | monitor valid 2.4667 | 1252 s
+[S-artic-s0] FINAL valid 2.4663 test 2.4234 (SE 0.0030) rate 0.0850 | 1441 s
+[S-onehot-s1] params 289819 g_in 4.0882 initial rate 0.1000
+[S-onehot-s1] epoch  1 lr 0.01000 train 2.6732 rate 0.0853 | monitor valid 2.6473 | 125 s
+[S-onehot-s1] epoch  2 lr 0.01000 train 2.5205 rate 0.0830 | monitor valid 2.5857 | 246 s
+[S-onehot-s1] epoch  3 lr 0.01000 train 2.4737 rate 0.0826 | monitor valid 2.5552 | 367 s
+[S-onehot-s1] epoch  4 lr 0.01000 train 2.4461 rate 0.0824 | monitor valid 2.5222 | 489 s
+[S-onehot-s1] epoch  5 lr 0.01000 train 2.4268 rate 0.0822 | monitor valid 2.5111 | 610 s
+[S-onehot-s1] epoch  6 lr 0.00250 train 2.3530 rate 0.0857 | monitor valid 2.4287 | 732 s
+[S-onehot-s1] epoch  7 lr 0.00250 train 2.3397 rate 0.0876 | monitor valid 2.4269 | 855 s
+[S-onehot-s1] epoch  8 lr 0.00062 train 2.3191 rate 0.0895 | monitor valid 2.3982 | 978 s
+[S-onehot-s1] epoch  9 lr 0.00062 train 2.3140 rate 0.0904 | monitor valid 2.3987 | 1101 s
+[S-onehot-s1] epoch 10 lr 0.00062 train 2.3112 rate 0.0912 | monitor valid 2.3959 | 1224 s
+[S-onehot-s1] FINAL valid 2.3947 test 2.3534 (SE 0.0030) rate 0.0916 | 1417 s
+[S-onehot-s2] params 289819 g_in 4.4575 initial rate 0.1000
+[S-onehot-s2] epoch  1 lr 0.01000 train 2.6540 rate 0.0799 | monitor valid 2.6335 | 123 s
+[S-onehot-s2] epoch  2 lr 0.01000 train 2.5021 rate 0.0776 | monitor valid 2.5612 | 244 s
+[S-onehot-s2] epoch  3 lr 0.01000 train 2.4570 rate 0.0772 | monitor valid 2.5345 | 364 s
+[S-onehot-s2] epoch  4 lr 0.01000 train 2.4293 rate 0.0770 | monitor valid 2.5122 | 484 s
+[S-onehot-s2] epoch  5 lr 0.01000 train 2.4089 rate 0.0769 | monitor valid 2.4941 | 605 s
+[S-onehot-s2] epoch  6 lr 0.00250 train 2.3351 rate 0.0806 | monitor valid 2.4158 | 726 s
+[S-onehot-s2] epoch  7 lr 0.00250 train 2.3206 rate 0.0826 | monitor valid 2.4122 | 848 s
+[S-onehot-s2] epoch  8 lr 0.00062 train 2.3000 rate 0.0845 | monitor valid 2.3820 | 970 s
+[S-onehot-s2] epoch  9 lr 0.00062 train 2.2946 rate 0.0855 | monitor valid 2.3780 | 1092 s
+[S-onehot-s2] epoch 10 lr 0.00062 train 2.2918 rate 0.0863 | monitor valid 2.3774 | 1215 s
+[S-onehot-s2] FINAL valid 2.3774 test 2.3346 (SE 0.0031) rate 0.0864 | 1398 s
+[W8-onehot-s0] params 295651 g_in 4.1812 initial rate 0.1000
+[W8-onehot-s0] epoch  1 lr 0.01000 train 2.5853 rate 0.0714 | monitor valid 2.5744 | 122 s
+[W8-onehot-s0] epoch  2 lr 0.01000 train 2.4550 rate 0.0701 | monitor valid 2.5260 | 241 s
+[W8-onehot-s0] epoch  3 lr 0.01000 train 2.4157 rate 0.0699 | monitor valid 2.4960 | 361 s
+[W8-onehot-s0] epoch  4 lr 0.01000 train 2.3913 rate 0.0700 | monitor valid 2.4861 | 480 s
+[W8-onehot-s0] epoch  5 lr 0.01000 train 2.3747 rate 0.0699 | monitor valid 2.4652 | 600 s
+[W8-onehot-s0] epoch  6 lr 0.00250 train 2.3079 rate 0.0734 | monitor valid 2.3843 | 720 s
+[W8-onehot-s0] epoch  7 lr 0.00250 train 2.2938 rate 0.0752 | monitor valid 2.3779 | 841 s
+[W8-onehot-s0] epoch  8 lr 0.00062 train 2.2762 rate 0.0769 | monitor valid 2.3589 | 962 s
+[W8-onehot-s0] epoch  9 lr 0.00062 train 2.2719 rate 0.0779 | monitor valid 2.3549 | 1083 s
+[W8-onehot-s0] epoch 10 lr 0.00062 train 2.2687 rate 0.0786 | monitor valid 2.3527 | 1204 s
+[W8-onehot-s0] FINAL valid 2.3514 test 2.3198 (SE 0.0031) rate 0.0787 | 1374 s
+[W8-onehot-s1] params 295651 g_in 4.0882 initial rate 0.1000
+[W8-onehot-s1] epoch  1 lr 0.01000 train 2.5968 rate 0.0734 | monitor valid 2.5879 | 122 s
+[W8-onehot-s1] epoch  2 lr 0.01000 train 2.4666 rate 0.0711 | monitor valid 2.5419 | 242 s
+[W8-onehot-s1] epoch  3 lr 0.01000 train 2.4263 rate 0.0709 | monitor valid 2.5085 | 362 s
+[W8-onehot-s1] epoch  4 lr 0.01000 train 2.3997 rate 0.0709 | monitor valid 2.4926 | 481 s
+[W8-onehot-s1] epoch  5 lr 0.01000 train 2.3817 rate 0.0708 | monitor valid 2.4777 | 601 s
+[W8-onehot-s1] epoch  6 lr 0.00250 train 2.3139 rate 0.0740 | monitor valid 2.3951 | 721 s
+[W8-onehot-s1] epoch  7 lr 0.00250 train 2.2991 rate 0.0756 | monitor valid 2.3861 | 842 s
+[W8-onehot-s1] epoch  8 lr 0.00062 train 2.2805 rate 0.0772 | monitor valid 2.3628 | 963 s
+[W8-onehot-s1] epoch  9 lr 0.00062 train 2.2754 rate 0.0782 | monitor valid 2.3603 | 1084 s
+[W8-onehot-s1] epoch 10 lr 0.00062 train 2.2728 rate 0.0788 | monitor valid 2.3586 | 1205 s
+[W8-onehot-s1] FINAL valid 2.3570 test 2.3199 (SE 0.0031) rate 0.0793 | 1377 s
+[W8-onehot-s2] params 295651 g_in 4.4575 initial rate 0.1000
+[W8-onehot-s2] epoch  1 lr 0.01000 train 2.5862 rate 0.0723 | monitor valid 2.5758 | 122 s
+[W8-onehot-s2] epoch  2 lr 0.01000 train 2.4540 rate 0.0701 | monitor valid 2.5208 | 242 s
+[W8-onehot-s2] epoch  3 lr 0.01000 train 2.4135 rate 0.0702 | monitor valid 2.4899 | 362 s
+[W8-onehot-s2] epoch  4 lr 0.01000 train 2.3881 rate 0.0703 | monitor valid 2.4762 | 481 s
+[W8-onehot-s2] epoch  5 lr 0.01000 train 2.3707 rate 0.0704 | monitor valid 2.4664 | 601 s
+[W8-onehot-s2] epoch  6 lr 0.00250 train 2.3031 rate 0.0739 | monitor valid 2.3838 | 721 s
+[W8-onehot-s2] epoch  7 lr 0.00250 train 2.2881 rate 0.0759 | monitor valid 2.3748 | 842 s
+[W8-onehot-s2] epoch  8 lr 0.00062 train 2.2700 rate 0.0776 | monitor valid 2.3495 | 963 s
+[W8-onehot-s2] epoch  9 lr 0.00062 train 2.2647 rate 0.0786 | monitor valid 2.3461 | 1085 s
+[W8-onehot-s2] epoch 10 lr 0.00062 train 2.2622 rate 0.0793 | monitor valid 2.3457 | 1206 s
+[W8-onehot-s2] FINAL valid 2.3447 test 2.3082 (SE 0.0031) rate 0.0796 | 1378 s
+[NR-onehot-s0] params 27675 g_in 4.1960 initial rate 0.1000
+[NR-onehot-s0] epoch  1 lr 0.01000 train 2.8757 rate 0.1078 | monitor valid 2.8344 | 8 s
+[NR-onehot-s0] epoch  2 lr 0.01000 train 2.7348 rate 0.1109 | monitor valid 2.7864 | 16 s
+[NR-onehot-s0] epoch  3 lr 0.01000 train 2.6939 rate 0.1122 | monitor valid 2.7591 | 24 s
+[NR-onehot-s0] epoch  4 lr 0.01000 train 2.6699 rate 0.1128 | monitor valid 2.7433 | 32 s
+[NR-onehot-s0] epoch  5 lr 0.01000 train 2.6551 rate 0.1136 | monitor valid 2.7303 | 40 s
+[NR-onehot-s0] epoch  6 lr 0.00250 train 2.6267 rate 0.1164 | monitor valid 2.6917 | 48 s
+[NR-onehot-s0] epoch  7 lr 0.00250 train 2.6222 rate 0.1193 | monitor valid 2.6892 | 56 s
+[NR-onehot-s0] epoch  8 lr 0.00062 train 2.6158 rate 0.1209 | monitor valid 2.6764 | 65 s
+[NR-onehot-s0] epoch  9 lr 0.00062 train 2.6131 rate 0.1219 | monitor valid 2.6753 | 73 s
+[NR-onehot-s0] epoch 10 lr 0.00062 train 2.6122 rate 0.1228 | monitor valid 2.6743 | 81 s
+[NR-onehot-s0] FINAL valid 2.6743 test 2.6175 (SE 0.0030) rate 0.1234 | 114 s
