@@ -59,5 +59,10 @@ Each of these must be committed here before the run it governs:
 - the three GRU sizes;
 - the seed count within 3 to 5, and the machine per seed;
 - the instrument for measuring board power;
-- the pinned `kdmd-snn` revision (replacing the local path dependency);
 - checkpoint and resume, which the crate does not yet have.
+
+Fixed since the freeze:
+
+- 2026-11-24: `kdmd-snn` pinned to revision `e8480f5` of
+  `koopman-based-SNN` (replacing the local path dependency). Any bump is a
+  commit of its own, made before the run it governs.

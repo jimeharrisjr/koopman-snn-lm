@@ -488,6 +488,7 @@ dependencies = [
 [[package]]
 name = "kdmd-snn"
 version = "0.1.0"
+source = "git+https://github.com/jimeharrisjr/koopman-based-SNN.git?rev=e8480f5f7b3ee6e45cec9227d14443b873e69759#e8480f5f7b3ee6e45cec9227d14443b873e69759"
 dependencies = [
  "faer",
  "koopman-dmd",

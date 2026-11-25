@@ -32,7 +32,8 @@ decisions are not tuned after results arrive.
 
 ## Building
 
-Expects a sibling checkout of `kdmd-SNN` (see `Cargo.toml`). Rust 1.85+.
+Builds standalone: `kdmd-snn` is fetched from GitHub at the revision pinned
+in `Cargo.toml`. Rust 1.85+.
 
 ```sh
 cargo check

@@ -9,10 +9,10 @@ license = "MIT"
 publish = false
 
 [dependencies]
-# Local sibling checkout of github.com/jimeharrisjr/koopman-based-SNN.
-# Changes the crate itself needs (per-step readout, checkpoint/resume) go
-# upstream into that repository, not here. Before any registered run this
-# must become a pinned git revision so the run is reproducible.
-kdmd-snn = { path = "../kdmd-SNN/crates/kdmd-snn" }
+# Pinned revision of the kdmd-snn crate. Changes the crate itself needs
+# (per-step readout, checkpoint/resume) go upstream into that repository,
+# then this revision is bumped in a commit of its own. For local work against
+# an unpublished crate change, use an uncommitted [patch] override.
+kdmd-snn = { git = "https://github.com/jimeharrisjr/koopman-based-SNN.git", rev = "e8480f5f7b3ee6e45cec9227d14443b873e69759" }
 # Must track kdmd-snn's faer minor version exactly: Mat<f64> crosses the API.
 faer = "0.22"
