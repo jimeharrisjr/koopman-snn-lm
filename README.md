@@ -12,7 +12,8 @@ neuron dynamics, identification and training.
 | Rung | Status | Result |
 |---|---|---|
 | 1 — linear ceiling | Done 2026-11-24 ([protocol](docs/01-rung1-preregistration.md), [results](docs/02-rung1-results.md)) | 3.077 test BPC on the frozen text8 subset |
-| 2 onward | Not authorized | |
+| 2 — reservoir | Done 2026-11-24 ([protocol](docs/03-rung2-preregistration.md), [results](docs/04-rung2-results.md)) | Untrained spikes lift above the ceiling: 3.019 test BPC from spikes alone, 2.743 with an 8-character window (3-seed means, N=1024) |
+| 3 onward | Not authorized | |
 
 No spiking network has been trained yet.
 
