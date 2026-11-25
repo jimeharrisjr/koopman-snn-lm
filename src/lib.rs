@@ -10,3 +10,4 @@
 pub use kdmd_snn;
 
 pub mod corpus;
+pub mod reservoir;
