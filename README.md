@@ -9,9 +9,12 @@ neuron dynamics, identification and training.
 
 ## Status
 
-**Scaffold only. No experiments have been run and none are authorized.**
-The first commit exists to put the frozen decisions on record before any
-result does.
+| Rung | Status | Result |
+|---|---|---|
+| 1 — linear ceiling | Done 2026-11-24 ([protocol](docs/01-rung1-preregistration.md), [results](docs/02-rung1-results.md)) | 3.077 test BPC on the frozen text8 subset |
+| 2 onward | Not authorized | |
+
+No spiking network has been trained yet.
 
 ## Goal
 
