@@ -1,0 +1,1235 @@
+[gate window K=8 e8] epoch  1 lr 0.00707 train 3.1528
+[gate window K=8 e8] epoch  2 lr 0.00707 train 3.1008
+[gate window K=8 e8] epoch  3 lr 0.00707 train 3.1006
+[gate window K=8 e8] epoch  4 lr 0.00707 train 3.1006
+[gate window K=8 e8] epoch  5 lr 0.00177 train 3.0965
+[gate window K=8 e8] epoch  6 lr 0.00177 train 3.0962
+[gate window K=8 e8] epoch  7 lr 0.00044 train 3.0952
+[gate window K=8 e8] epoch  8 lr 0.00044 train 3.0950
+[gate window K=8 e8] valid 3.1214 test 3.0834
+[gate window K=8 e16] epoch  1 lr 0.00707 train 3.1528
+[gate window K=8 e16] epoch  2 lr 0.00707 train 3.1008
+[gate window K=8 e16] epoch  3 lr 0.00707 train 3.1006
+[gate window K=8 e16] epoch  4 lr 0.00707 train 3.1006
+[gate window K=8 e16] epoch  5 lr 0.00707 train 3.1005
+[gate window K=8 e16] epoch  6 lr 0.00707 train 3.1005
+[gate window K=8 e16] epoch  7 lr 0.00707 train 3.1005
+[gate window K=8 e16] epoch  8 lr 0.00707 train 3.1005
+[gate window K=8 e16] epoch  9 lr 0.00177 train 3.0965
+[gate window K=8 e16] epoch 10 lr 0.00177 train 3.0962
+[gate window K=8 e16] epoch 11 lr 0.00177 train 3.0962
+[gate window K=8 e16] epoch 12 lr 0.00177 train 3.0962
+[gate window K=8 e16] epoch 13 lr 0.00044 train 3.0952
+[gate window K=8 e16] epoch 14 lr 0.00044 train 3.0950
+[gate window K=8 e16] epoch 15 lr 0.00044 train 3.0950
+[gate window K=8 e16] epoch 16 lr 0.00044 train 3.0950
+[gate window K=8 e16] valid 3.1214 test 3.0834
+[res n=512 rho=0 r=0.05 seed=0] g_in=2.4827 rate=0.0501
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-2 valid 3.5490
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-10 eps=3e-3 valid 3.5457
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-3 valid 3.5833
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-10 eps=3e-4 valid 3.6345
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-4 valid 3.6835
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-2 valid 3.5490
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-8 eps=3e-3 valid 3.5457
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-3 valid 3.5833
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-8 eps=3e-4 valid 3.6345
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-4 valid 3.6835
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-2 valid 3.5490
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-6 eps=3e-3 valid 3.5457
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-3 valid 3.5833
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-6 eps=3e-4 valid 3.6345
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-4 valid 3.6835
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-2 valid 3.5490
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-4 eps=3e-3 valid 3.5456
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-3 valid 3.5832
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-4 eps=3e-4 valid 3.6344
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-4 valid 3.6834
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-2 valid 3.5492
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-2 eps=3e-3 valid 3.5447
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-3 valid 3.5812
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-2 eps=3e-4 valid 3.6312
+[n512 rho0 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-4 valid 3.6791
+[S n512 rho0 r0.05 s0 e8] epoch  1 lr 0.00395 train 3.3208
+[SW n512 rho0 r0.05 s0 e8] epoch  1 lr 0.00345 train 2.9888
+[res n=512 rho=0 r=0.2 seed=0] g_in=11.0575 rate=0.2001
+[S n512 rho0 r0.05 s0 e8] epoch  2 lr 0.00395 train 3.2875
+[SW n512 rho0 r0.05 s0 e8] epoch  2 lr 0.00345 train 2.9128
+[S n512 rho0 r0.05 s0 e8] epoch  3 lr 0.00395 train 3.2866
+[SW n512 rho0 r0.05 s0 e8] epoch  3 lr 0.00345 train 2.9085
+[S n512 rho0 r0.05 s0 e8] epoch  4 lr 0.00395 train 3.2863
+[SW n512 rho0 r0.05 s0 e8] epoch  4 lr 0.00345 train 2.9076
+[S n512 rho0 r0.2 s0 e8] epoch  1 lr 0.00198 train 3.3005
+[S n512 rho0 r0.05 s0 e8] epoch  5 lr 0.00099 train 3.2813
+[SW n512 rho0 r0.2 s0 e8] epoch  1 lr 0.00190 train 2.9844
+[S n512 rho0 r0.05 s0 e8] epoch  6 lr 0.00099 train 3.2809
+[SW n512 rho0 r0.05 s0 e8] epoch  5 lr 0.00086 train 2.9015
+[S n512 rho0 r0.05 s0 e8] epoch  7 lr 0.00025 train 3.2795
+[SW n512 rho0 r0.05 s0 e8] epoch  6 lr 0.00086 train 2.9008
+[S n512 rho0 r0.2 s0 e8] epoch  2 lr 0.00198 train 3.2531
+[S n512 rho0 r0.05 s0 e8] epoch  8 lr 0.00025 train 3.2793
+[S n512 rho0 r0.05 s0 e8] valid 3.3122 test 3.2541
+[SW n512 rho0 r0.2 s0 e8] epoch  2 lr 0.00190 train 2.8784
+[SW n512 rho0 r0.05 s0 e8] epoch  7 lr 0.00022 train 2.8991
+[S n512 rho0 r0.05 s0 e16] epoch  1 lr 0.00395 train 3.3208
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-2 valid 3.5441
+[SW n512 rho0 r0.05 s0 e8] epoch  8 lr 0.00022 train 2.8988
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-10 eps=3e-3 valid 3.5475
+[SW n512 rho0 r0.05 s0 e8] valid 2.9411 test 2.8871
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-3 valid 3.5914
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-10 eps=3e-4 valid 3.6495
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-4 valid 3.7049
+[S n512 rho0 r0.05 s0 e16] epoch  2 lr 0.00395 train 3.2875
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-2 valid 3.5441
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-8 eps=3e-3 valid 3.5475
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-3 valid 3.5914
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-8 eps=3e-4 valid 3.6495
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-4 valid 3.7049
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-2 valid 3.5441
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-6 eps=3e-3 valid 3.5475
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-3 valid 3.5914
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-6 eps=3e-4 valid 3.6495
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-4 valid 3.7049
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-2 valid 3.5441
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-4 eps=3e-3 valid 3.5475
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-3 valid 3.5914
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-4 eps=3e-4 valid 3.6494
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-4 valid 3.7048
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-2 valid 3.5442
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-2 eps=3e-3 valid 3.5453
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-3 valid 3.5870
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-2 eps=3e-4 valid 3.6428
+[n512 rho0 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-4 valid 3.6960
+[S n512 rho0 r0.05 s0 e16] epoch  3 lr 0.00395 train 3.2866
+[S n512 rho0 r0.2 s0 e8] epoch  3 lr 0.00198 train 3.2517
+[SW n512 rho0 r0.05 s0 e16] epoch  1 lr 0.00345 train 2.9888
+[SW n512 rho0 r0.2 s0 e8] epoch  3 lr 0.00190 train 2.8692
+[S n512 rho0 r0.05 s0 e16] epoch  4 lr 0.00395 train 3.2863
+[SW n512 rho0 r0.05 s0 e16] epoch  2 lr 0.00345 train 2.9128
+[S n512 rho0 r0.05 s0 e16] epoch  5 lr 0.00395 train 3.2862
+[SW n512 rho0 r0.05 s0 e16] epoch  3 lr 0.00345 train 2.9085
+[S n512 rho0 r0.05 s0 e16] epoch  6 lr 0.00395 train 3.2861
+[S n512 rho0 r0.2 s0 e8] epoch  4 lr 0.00198 train 3.2511
+[SW n512 rho0 r0.05 s0 e16] epoch  4 lr 0.00345 train 2.9076
+[SW n512 rho0 r0.2 s0 e8] epoch  4 lr 0.00190 train 2.8657
+[S n512 rho0 r0.05 s0 e16] epoch  7 lr 0.00395 train 3.2860
+[S n512 rho0 r0.05 s0 e16] epoch  8 lr 0.00395 train 3.2860
+[SW n512 rho0 r0.05 s0 e16] epoch  5 lr 0.00345 train 2.9073
+[res n=1024 rho=0 r=0.05 seed=0] g_in=2.4958 rate=0.0502
+[S n512 rho0 r0.05 s0 e16] epoch  9 lr 0.00099 train 3.2811
+[S n512 rho0 r0.2 s0 e8] epoch  5 lr 0.00049 train 3.2451
+[SW n512 rho0 r0.05 s0 e16] epoch  6 lr 0.00345 train 2.9072
+[res n=1024 rho=0 r=0.2 seed=0] g_in=11.2408 rate=0.2007
+[S n512 rho0 r0.05 s0 e16] epoch 10 lr 0.00099 train 3.2807
+[SW n512 rho0 r0.2 s0 e8] epoch  5 lr 0.00048 train 2.8582
+[S n1024 rho0 r0.05 s0 e8] epoch  1 lr 0.00280 train 3.1139
+[SW n1024 rho0 r0.05 s0 e8] epoch  1 lr 0.00260 train 2.8857
+[SW n512 rho0 r0.05 s0 e16] epoch  7 lr 0.00345 train 2.9072
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-2 valid 3.4092
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-10 eps=3e-3 valid 3.4059
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-3 valid 3.4469
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-10 eps=3e-4 valid 3.5032
+[S n512 rho0 r0.05 s0 e16] epoch 11 lr 0.00099 train 3.2807
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-4 valid 3.5572
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-2 valid 3.4092
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-8 eps=3e-3 valid 3.4059
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-3 valid 3.4469
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-8 eps=3e-4 valid 3.5032
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-4 valid 3.5572
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-2 valid 3.4092
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-6 eps=3e-3 valid 3.4059
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-3 valid 3.4469
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-6 eps=3e-4 valid 3.5032
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-4 valid 3.5572
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-2 valid 3.4092
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-4 eps=3e-3 valid 3.4058
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-3 valid 3.4468
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-4 eps=3e-4 valid 3.5030
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-4 valid 3.5570
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-2 valid 3.4097
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-2 eps=3e-3 valid 3.4052
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-3 valid 3.4449
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-2 eps=3e-4 valid 3.4998
+[n1024 rho0 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-4 valid 3.5526
+[SW n512 rho0 r0.05 s0 e16] epoch  8 lr 0.00345 train 2.9071
+[S n1024 rho0 r0.05 s0 e8] epoch  2 lr 0.00280 train 3.0691
+[S n512 rho0 r0.05 s0 e16] epoch 12 lr 0.00099 train 3.2807
+[S n512 rho0 r0.2 s0 e8] epoch  6 lr 0.00049 train 3.2446
+[SW n1024 rho0 r0.05 s0 e8] epoch  2 lr 0.00260 train 2.8051
+[SW n512 rho0 r0.05 s0 e16] epoch  9 lr 0.00086 train 2.9011
+[S n512 rho0 r0.05 s0 e16] epoch 13 lr 0.00025 train 3.2793
+[SW n512 rho0 r0.2 s0 e8] epoch  6 lr 0.00048 train 2.8574
+[S n1024 rho0 r0.05 s0 e8] epoch  3 lr 0.00280 train 3.0676
+[S n512 rho0 r0.05 s0 e16] epoch 14 lr 0.00025 train 3.2791
+[SW n512 rho0 r0.05 s0 e16] epoch 10 lr 0.00086 train 2.9005
+[SW n1024 rho0 r0.05 s0 e8] epoch  3 lr 0.00260 train 2.7984
+[S n512 rho0 r0.05 s0 e16] epoch 15 lr 0.00025 train 3.2791
+[S n512 rho0 r0.2 s0 e8] epoch  7 lr 0.00012 train 3.2429
+[SW n512 rho0 r0.05 s0 e16] epoch 11 lr 0.00086 train 2.9005
+[S n1024 rho0 r0.05 s0 e8] epoch  4 lr 0.00280 train 3.0670
+[S n1024 rho0 r0.2 s0 e8] epoch  1 lr 0.00140 train 3.1322
+[SW n1024 rho0 r0.2 s0 e8] epoch  1 lr 0.00137 train 2.9005
+[S n512 rho0 r0.05 s0 e16] epoch 16 lr 0.00025 train 3.2791
+[S n512 rho0 r0.05 s0 e16] valid 3.3121 test 3.2540
+[SW n1024 rho0 r0.05 s0 e8] epoch  4 lr 0.00260 train 2.7962
+[SW n512 rho0 r0.2 s0 e8] epoch  7 lr 0.00012 train 2.8552
+[SW n512 rho0 r0.05 s0 e16] epoch 12 lr 0.00086 train 2.9005
+[S n1024 rho0 r0.05 s0 e8] epoch  5 lr 0.00070 train 3.0601
+[SW n512 rho0 r0.05 s0 e16] epoch 13 lr 0.00022 train 2.8988
+[S n512 rho0 r0.2 s0 e8] epoch  8 lr 0.00012 train 3.2427
+[S n512 rho0 r0.2 s0 e8] valid 3.2803 test 3.2134
+[SW n1024 rho0 r0.05 s0 e8] epoch  5 lr 0.00065 train 2.7882
+[S n1024 rho0 r0.05 s0 e8] epoch  6 lr 0.00070 train 3.0593
+[SW n512 rho0 r0.05 s0 e16] epoch 14 lr 0.00022 train 2.8986
+[SW n512 rho0 r0.2 s0 e8] epoch  8 lr 0.00012 train 2.8550
+[SW n512 rho0 r0.2 s0 e8] valid 2.9003 test 2.8451
+[SW n512 rho0 r0.05 s0 e16] epoch 15 lr 0.00022 train 2.8985
+[SW n1024 rho0 r0.05 s0 e8] epoch  6 lr 0.00065 train 2.7872
+[S n1024 rho0 r0.05 s0 e8] epoch  7 lr 0.00017 train 3.0573
+[S n1024 rho0 r0.2 s0 e8] epoch  2 lr 0.00140 train 3.0573
+[S n512 rho0 r0.2 s0 e16] epoch  1 lr 0.00198 train 3.3005
+[SW n1024 rho0 r0.2 s0 e8] epoch  2 lr 0.00137 train 2.7765
+[SW n512 rho0 r0.05 s0 e16] epoch 16 lr 0.00022 train 2.8985
+[SW n512 rho0 r0.05 s0 e16] valid 2.9410 test 2.8870
+[S n1024 rho0 r0.05 s0 e8] epoch  8 lr 0.00017 train 3.0571
+[S n1024 rho0 r0.05 s0 e8] valid 3.1034 test 3.0360
+[SW n1024 rho0 r0.05 s0 e8] epoch  7 lr 0.00016 train 2.7849
+[SW n512 rho0 r0.2 s0 e16] epoch  1 lr 0.00190 train 2.9844
+[S n512 rho0 r0.2 s0 e16] epoch  2 lr 0.00198 train 3.2531
+[S n1024 rho0 r0.05 s0 e16] epoch  1 lr 0.00280 train 3.1139
+[SW n1024 rho0 r0.05 s0 e8] epoch  8 lr 0.00016 train 2.7846
+[SW n1024 rho0 r0.05 s0 e8] valid 2.8350 test 2.7776
+[S n1024 rho0 r0.05 s0 e16] epoch  2 lr 0.00280 train 3.0691
+[SW n512 rho0 r0.2 s0 e16] epoch  2 lr 0.00190 train 2.8784
+[S n1024 rho0 r0.2 s0 e8] epoch  3 lr 0.00140 train 3.0547
+[SW n1024 rho0 r0.05 s0 e16] epoch  1 lr 0.00260 train 2.8857
+[S n512 rho0 r0.2 s0 e16] epoch  3 lr 0.00198 train 3.2517
+[SW n1024 rho0 r0.2 s0 e8] epoch  3 lr 0.00137 train 2.7665
+[S n1024 rho0 r0.05 s0 e16] epoch  3 lr 0.00280 train 3.0676
+[SW n1024 rho0 r0.05 s0 e16] epoch  2 lr 0.00260 train 2.8051
+[SW n512 rho0 r0.2 s0 e16] epoch  3 lr 0.00190 train 2.8692
+[S n1024 rho0 r0.05 s0 e16] epoch  4 lr 0.00280 train 3.0670
+[S n512 rho0 r0.2 s0 e16] epoch  4 lr 0.00198 train 3.2511
+[SW n1024 rho0 r0.05 s0 e16] epoch  3 lr 0.00260 train 2.7984
+[S n1024 rho0 r0.05 s0 e16] epoch  5 lr 0.00280 train 3.0666
+[S n1024 rho0 r0.2 s0 e8] epoch  4 lr 0.00140 train 3.0540
+[SW n512 rho0 r0.2 s0 e16] epoch  4 lr 0.00190 train 2.8657
+[SW n1024 rho0 r0.05 s0 e16] epoch  4 lr 0.00260 train 2.7962
+[SW n1024 rho0 r0.2 s0 e8] epoch  4 lr 0.00137 train 2.7627
+[S n512 rho0 r0.2 s0 e16] epoch  5 lr 0.00198 train 3.2506
+[S n1024 rho0 r0.05 s0 e16] epoch  6 lr 0.00280 train 3.0664
+[res n=512 rho=1 r=0.05 seed=0] g_in=2.4483 rate=0.0500
+[res n=512 rho=3 r=0.05 seed=0] g_in=2.2733 rate=0.0501
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-2 valid 3.5443
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-10 eps=3e-3 valid 3.5385
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-3 valid 3.5744
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-10 eps=3e-4 valid 3.6237
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-4 valid 3.6709
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-2 valid 3.5443
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-8 eps=3e-3 valid 3.5385
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-3 valid 3.5744
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-8 eps=3e-4 valid 3.6237
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-4 valid 3.6709
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-2 valid 3.5443
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-6 eps=3e-3 valid 3.5385
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-2 valid 3.5885
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-3 valid 3.5744
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-10 eps=3e-3 valid 3.5797
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-6 eps=3e-4 valid 3.6237
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-3 valid 3.6118
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-4 valid 3.6709
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-10 eps=3e-4 valid 3.6566
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-2 valid 3.5443
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-4 valid 3.6996
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-4 eps=3e-3 valid 3.5385
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-2 valid 3.5885
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-3 valid 3.5743
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-8 eps=3e-3 valid 3.5797
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-4 eps=3e-4 valid 3.6236
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-3 valid 3.6118
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-4 valid 3.6708
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-8 eps=3e-4 valid 3.6566
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-4 valid 3.6996
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-2 valid 3.5446
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-2 eps=3e-3 valid 3.5376
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-2 valid 3.5885
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-3 valid 3.5724
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-6 eps=3e-3 valid 3.5797
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-2 eps=3e-4 valid 3.6204
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-3 valid 3.6118
+[n512 rho1 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-4 valid 3.6664
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-6 eps=3e-4 valid 3.6566
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-4 valid 3.6996
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-2 valid 3.5885
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-4 eps=3e-3 valid 3.5796
+[S n512 rho1 r0.05 s0 e8] epoch  1 lr 0.00395 train 3.3263
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-3 valid 3.6118
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-4 eps=3e-4 valid 3.6566
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-4 valid 3.6996
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-2 valid 3.5886
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-2 eps=3e-3 valid 3.5789
+[SW n1024 rho0 r0.05 s0 e16] epoch  5 lr 0.00260 train 2.7954
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-3 valid 3.6100
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-2 eps=3e-4 valid 3.6538
+[n512 rho3 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-4 valid 3.6958
+[S n512 rho3 r0.05 s0 e8] epoch  1 lr 0.00395 train 3.3874
+[S n1024 rho0 r0.05 s0 e16] epoch  7 lr 0.00280 train 3.0663
+[SW n512 rho1 r0.05 s0 e8] epoch  1 lr 0.00345 train 2.9919
+[SW n512 rho3 r0.05 s0 e8] epoch  1 lr 0.00345 train 3.0242
+[S n512 rho1 r0.05 s0 e8] epoch  2 lr 0.00395 train 3.2927
+[SW n512 rho0 r0.2 s0 e16] epoch  5 lr 0.00190 train 2.8640
+[S n512 rho3 r0.05 s0 e8] epoch  2 lr 0.00395 train 3.3581
+[S n512 rho0 r0.2 s0 e16] epoch  6 lr 0.00198 train 3.2502
+[SW n512 rho1 r0.05 s0 e8] epoch  2 lr 0.00345 train 2.9162
+[SW n512 rho3 r0.05 s0 e8] epoch  2 lr 0.00345 train 2.9483
+[S n1024 rho0 r0.05 s0 e16] epoch  8 lr 0.00280 train 3.0662
+[S n512 rho1 r0.05 s0 e8] epoch  3 lr 0.00395 train 3.2917
+[SW n1024 rho0 r0.05 s0 e16] epoch  6 lr 0.00260 train 2.7949
+[S n512 rho3 r0.05 s0 e8] epoch  3 lr 0.00395 train 3.3573
+[SW n512 rho1 r0.05 s0 e8] epoch  3 lr 0.00345 train 2.9122
+[S n1024 rho0 r0.2 s0 e8] epoch  5 lr 0.00035 train 3.0461
+[SW n512 rho3 r0.05 s0 e8] epoch  3 lr 0.00345 train 2.9451
+[S n512 rho1 r0.05 s0 e8] epoch  4 lr 0.00395 train 3.2914
+[S n512 rho3 r0.05 s0 e8] epoch  4 lr 0.00395 train 3.3570
+[S n1024 rho0 r0.05 s0 e16] epoch  9 lr 0.00070 train 3.0595
+[SW n512 rho1 r0.05 s0 e8] epoch  4 lr 0.00345 train 2.9114
+[S n512 rho1 r0.05 s0 e8] epoch  5 lr 0.00099 train 3.2864
+[SW n512 rho3 r0.05 s0 e8] epoch  4 lr 0.00345 train 2.9446
+[SW n1024 rho0 r0.2 s0 e8] epoch  5 lr 0.00034 train 2.7531
+[SW n1024 rho0 r0.05 s0 e16] epoch  7 lr 0.00260 train 2.7947
+[S n512 rho3 r0.05 s0 e8] epoch  5 lr 0.00099 train 3.3521
+[S n512 rho0 r0.2 s0 e16] epoch  7 lr 0.00198 train 3.2499
+[SW n512 rho0 r0.2 s0 e16] epoch  6 lr 0.00190 train 2.8631
+[S n512 rho1 r0.05 s0 e8] epoch  6 lr 0.00099 train 3.2860
+[S n512 rho3 r0.05 s0 e8] epoch  6 lr 0.00099 train 3.3517
+[SW n512 rho1 r0.05 s0 e8] epoch  5 lr 0.00086 train 2.9052
+[SW n512 rho3 r0.05 s0 e8] epoch  5 lr 0.00086 train 2.9385
+[S n1024 rho0 r0.05 s0 e16] epoch 10 lr 0.00070 train 3.0588
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-2 valid 3.4166
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-10 eps=3e-3 valid 3.4222
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-3 valid 3.4710
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-10 eps=3e-4 valid 3.5357
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-4 valid 3.5975
+[S n512 rho1 r0.05 s0 e8] epoch  7 lr 0.00025 train 3.2846
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-2 valid 3.4166
+[S n512 rho3 r0.05 s0 e8] epoch  7 lr 0.00025 train 3.3503
+[SW n1024 rho0 r0.05 s0 e16] epoch  8 lr 0.00260 train 2.7946
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-8 eps=3e-3 valid 3.4222
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-3 valid 3.4710
+[SW n512 rho1 r0.05 s0 e8] epoch  6 lr 0.00086 train 2.9046
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-8 eps=3e-4 valid 3.5357
+[SW n512 rho3 r0.05 s0 e8] epoch  6 lr 0.00086 train 2.9379
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-4 valid 3.5975
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-2 valid 3.4166
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-6 eps=3e-3 valid 3.4222
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-3 valid 3.4710
+[S n512 rho1 r0.05 s0 e8] epoch  8 lr 0.00025 train 3.2844
+[S n512 rho1 r0.05 s0 e8] valid 3.3131 test 3.2561
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-6 eps=3e-4 valid 3.5357
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-4 valid 3.5975
+[S n512 rho3 r0.05 s0 e8] epoch  8 lr 0.00025 train 3.3501
+[S n512 rho3 r0.05 s0 e8] valid 3.3805 test 3.3241
+[S n512 rho0 r0.2 s0 e16] epoch  8 lr 0.00198 train 3.2497
+[S n1024 rho0 r0.05 s0 e16] epoch 11 lr 0.00070 train 3.0588
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-2 valid 3.4166
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-4 eps=3e-3 valid 3.4222
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-3 valid 3.4710
+[SW n512 rho0 r0.2 s0 e16] epoch  7 lr 0.00190 train 2.8626
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-4 eps=3e-4 valid 3.5356
+[SW n512 rho1 r0.05 s0 e8] epoch  7 lr 0.00022 train 2.9028
+[SW n512 rho3 r0.05 s0 e8] epoch  7 lr 0.00022 train 2.9362
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-4 valid 3.5974
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-2 valid 3.4181
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-2 eps=3e-3 valid 3.4212
+[S n512 rho1 r0.05 s0 e16] epoch  1 lr 0.00395 train 3.3263
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-3 valid 3.4678
+[S n512 rho3 r0.05 s0 e16] epoch  1 lr 0.00395 train 3.3874
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-2 eps=3e-4 valid 3.5299
+[SW n1024 rho0 r0.05 s0 e16] epoch  9 lr 0.00065 train 2.7871
+[n1024 rho0 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-4 valid 3.5893
+[S n1024 rho0 r0.2 s0 e8] epoch  6 lr 0.00035 train 3.0456
+[SW n512 rho1 r0.05 s0 e8] epoch  8 lr 0.00022 train 2.9026
+[SW n512 rho1 r0.05 s0 e8] valid 2.9412 test 2.8901
+[SW n512 rho3 r0.05 s0 e8] epoch  8 lr 0.00022 train 2.9359
+[SW n512 rho3 r0.05 s0 e8] valid 2.9736 test 2.9251
+[S n512 rho1 r0.05 s0 e16] epoch  2 lr 0.00395 train 3.2927
+[S n1024 rho0 r0.05 s0 e16] epoch 12 lr 0.00070 train 3.0587
+[S n512 rho3 r0.05 s0 e16] epoch  2 lr 0.00395 train 3.3581
+[SW n1024 rho0 r0.2 s0 e8] epoch  6 lr 0.00034 train 2.7520
+[S n512 rho1 r0.05 s0 e16] epoch  3 lr 0.00395 train 3.2917
+[S n512 rho0 r0.2 s0 e16] epoch  9 lr 0.00049 train 3.2439
+[SW n512 rho1 r0.05 s0 e16] epoch  1 lr 0.00345 train 2.9919
+[S n512 rho3 r0.05 s0 e16] epoch  3 lr 0.00395 train 3.3573
+[SW n512 rho3 r0.05 s0 e16] epoch  1 lr 0.00345 train 3.0242
+[SW n1024 rho0 r0.05 s0 e16] epoch 10 lr 0.00065 train 2.7862
+[SW n512 rho0 r0.2 s0 e16] epoch  8 lr 0.00190 train 2.8623
+[S n1024 rho0 r0.05 s0 e16] epoch 13 lr 0.00017 train 3.0568
+[S n512 rho1 r0.05 s0 e16] epoch  4 lr 0.00395 train 3.2914
+[S n512 rho3 r0.05 s0 e16] epoch  4 lr 0.00395 train 3.3570
+[SW n512 rho1 r0.05 s0 e16] epoch  2 lr 0.00345 train 2.9162
+[SW n512 rho3 r0.05 s0 e16] epoch  2 lr 0.00345 train 2.9483
+[S n512 rho1 r0.05 s0 e16] epoch  5 lr 0.00395 train 3.2912
+[S n512 rho3 r0.05 s0 e16] epoch  5 lr 0.00395 train 3.3569
+[SW n1024 rho0 r0.05 s0 e16] epoch 11 lr 0.00065 train 2.7861
+[S n1024 rho0 r0.05 s0 e16] epoch 14 lr 0.00017 train 3.0566
+[SW n512 rho1 r0.05 s0 e16] epoch  3 lr 0.00345 train 2.9122
+[SW n512 rho3 r0.05 s0 e16] epoch  3 lr 0.00345 train 2.9451
+[S n512 rho1 r0.05 s0 e16] epoch  6 lr 0.00395 train 3.2912
+[S n512 rho0 r0.2 s0 e16] epoch 10 lr 0.00049 train 3.2435
+[S n512 rho3 r0.05 s0 e16] epoch  6 lr 0.00395 train 3.3569
+[SW n512 rho1 r0.05 s0 e16] epoch  4 lr 0.00345 train 2.9114
+[SW n512 rho0 r0.2 s0 e16] epoch  9 lr 0.00048 train 2.8559
+[S n1024 rho0 r0.2 s0 e8] epoch  7 lr 0.00009 train 3.0431
+[SW n512 rho3 r0.05 s0 e16] epoch  4 lr 0.00345 train 2.9446
+[S n512 rho1 r0.05 s0 e16] epoch  7 lr 0.00395 train 3.2911
+[S n512 rho3 r0.05 s0 e16] epoch  7 lr 0.00395 train 3.3568
+[SW n1024 rho0 r0.05 s0 e16] epoch 12 lr 0.00065 train 2.7861
+[S n1024 rho0 r0.05 s0 e16] epoch 15 lr 0.00017 train 3.0565
+[S n512 rho1 r0.05 s0 e16] epoch  8 lr 0.00395 train 3.2911
+[SW n512 rho1 r0.05 s0 e16] epoch  5 lr 0.00345 train 2.9111
+[S n512 rho3 r0.05 s0 e16] epoch  8 lr 0.00395 train 3.3568
+[SW n512 rho3 r0.05 s0 e16] epoch  5 lr 0.00345 train 2.9444
+[SW n1024 rho0 r0.2 s0 e8] epoch  7 lr 0.00009 train 2.7492
+[S n512 rho1 r0.05 s0 e16] epoch  9 lr 0.00099 train 3.2863
+[S n512 rho0 r0.2 s0 e16] epoch 11 lr 0.00049 train 3.2434
+[S n1024 rho0 r0.05 s0 e16] epoch 16 lr 0.00017 train 3.0565
+[S n1024 rho0 r0.05 s0 e16] valid 3.1032 test 3.0360
+[S n512 rho3 r0.05 s0 e16] epoch  9 lr 0.00099 train 3.3520
+[SW n512 rho1 r0.05 s0 e16] epoch  6 lr 0.00345 train 2.9110
+[SW n1024 rho0 r0.05 s0 e16] epoch 13 lr 0.00016 train 2.7839
+[SW n512 rho3 r0.05 s0 e16] epoch  6 lr 0.00345 train 2.9444
+[S n512 rho1 r0.05 s0 e16] epoch 10 lr 0.00099 train 3.2858
+[S n512 rho3 r0.05 s0 e16] epoch 10 lr 0.00099 train 3.3515
+[SW n512 rho0 r0.2 s0 e16] epoch 10 lr 0.00048 train 2.8553
+[SW n512 rho1 r0.05 s0 e16] epoch  7 lr 0.00345 train 2.9110
+[SW n512 rho3 r0.05 s0 e16] epoch  7 lr 0.00345 train 2.9443
+[S n512 rho1 r0.05 s0 e16] epoch 11 lr 0.00099 train 3.2858
+[S n512 rho3 r0.05 s0 e16] epoch 11 lr 0.00099 train 3.3515
+[SW n1024 rho0 r0.05 s0 e16] epoch 14 lr 0.00016 train 2.7837
+[SW n512 rho1 r0.05 s0 e16] epoch  8 lr 0.00345 train 2.9109
+[S n512 rho1 r0.05 s0 e16] epoch 12 lr 0.00099 train 3.2858
+[SW n512 rho3 r0.05 s0 e16] epoch  8 lr 0.00345 train 2.9443
+[S n512 rho0 r0.2 s0 e16] epoch 12 lr 0.00049 train 3.2433
+[S n512 rho3 r0.05 s0 e16] epoch 12 lr 0.00099 train 3.3515
+[S n1024 rho0 r0.2 s0 e8] epoch  8 lr 0.00009 train 3.0430
+[S n1024 rho0 r0.2 s0 e8] valid 3.0951 test 3.0226
+[SW n512 rho1 r0.05 s0 e16] epoch  9 lr 0.00086 train 2.9050
+[S n512 rho1 r0.05 s0 e16] epoch 13 lr 0.00025 train 3.2844
+[S n512 rho3 r0.05 s0 e16] epoch 13 lr 0.00025 train 3.3502
+[SW n512 rho3 r0.05 s0 e16] epoch  9 lr 0.00086 train 2.9384
+[SW n512 rho0 r0.2 s0 e16] epoch 11 lr 0.00048 train 2.8552
+[SW n1024 rho0 r0.05 s0 e16] epoch 15 lr 0.00016 train 2.7836
+[S n512 rho1 r0.05 s0 e16] epoch 14 lr 0.00025 train 3.2843
+[S n512 rho3 r0.05 s0 e16] epoch 14 lr 0.00025 train 3.3500
+[SW n512 rho1 r0.05 s0 e16] epoch 10 lr 0.00086 train 2.9044
+[SW n512 rho3 r0.05 s0 e16] epoch 10 lr 0.00086 train 2.9378
+[SW n1024 rho0 r0.2 s0 e8] epoch  8 lr 0.00009 train 2.7489
+[SW n1024 rho0 r0.2 s0 e8] valid 2.8035 test 2.7462
+[S n512 rho1 r0.05 s0 e16] epoch 15 lr 0.00025 train 3.2842
+[S n512 rho0 r0.2 s0 e16] epoch 13 lr 0.00012 train 3.2416
+[S n512 rho3 r0.05 s0 e16] epoch 15 lr 0.00025 train 3.3500
+[SW n512 rho1 r0.05 s0 e16] epoch 11 lr 0.00086 train 2.9043
+[SW n1024 rho0 r0.05 s0 e16] epoch 16 lr 0.00016 train 2.7836
+[SW n1024 rho0 r0.05 s0 e16] valid 2.8345 test 2.7775
+[SW n512 rho3 r0.05 s0 e16] epoch 11 lr 0.00086 train 2.9377
+[S n512 rho1 r0.05 s0 e16] epoch 16 lr 0.00025 train 3.2842
+[S n512 rho1 r0.05 s0 e16] valid 3.3130 test 3.2560
+[S n512 rho3 r0.05 s0 e16] epoch 16 lr 0.00025 train 3.3499
+[S n512 rho3 r0.05 s0 e16] valid 3.3805 test 3.3240
+[SW n512 rho0 r0.2 s0 e16] epoch 12 lr 0.00048 train 2.8552
+[SW n512 rho1 r0.05 s0 e16] epoch 12 lr 0.00086 train 2.9043
+[SW n512 rho3 r0.05 s0 e16] epoch 12 lr 0.00086 train 2.9377
+[SW n512 rho1 r0.05 s0 e16] epoch 13 lr 0.00022 train 2.9026
+[S n512 rho0 r0.2 s0 e16] epoch 14 lr 0.00012 train 3.2415
+[SW n512 rho3 r0.05 s0 e16] epoch 13 lr 0.00022 train 2.9360
+[S n1024 rho0 r0.2 s0 e16] epoch  1 lr 0.00140 train 3.1322
+[SW n512 rho1 r0.05 s0 e16] epoch 14 lr 0.00022 train 2.9024
+[SW n512 rho3 r0.05 s0 e16] epoch 14 lr 0.00022 train 2.9358
+[SW n512 rho0 r0.2 s0 e16] epoch 13 lr 0.00012 train 2.8533
+[SW n512 rho1 r0.05 s0 e16] epoch 15 lr 0.00022 train 2.9023
+[SW n1024 rho0 r0.2 s0 e16] epoch  1 lr 0.00137 train 2.9005
+[SW n512 rho3 r0.05 s0 e16] epoch 15 lr 0.00022 train 2.9358
+[S n512 rho0 r0.2 s0 e16] epoch 15 lr 0.00012 train 3.2414
+[SW n512 rho1 r0.05 s0 e16] epoch 16 lr 0.00022 train 2.9023
+[SW n512 rho1 r0.05 s0 e16] valid 2.9411 test 2.8902
+[SW n512 rho3 r0.05 s0 e16] epoch 16 lr 0.00022 train 2.9358
+[SW n512 rho3 r0.05 s0 e16] valid 2.9736 test 2.9251
+[SW n512 rho0 r0.2 s0 e16] epoch 14 lr 0.00012 train 2.8531
+[S n512 rho0 r0.2 s0 e16] epoch 16 lr 0.00012 train 3.2414
+[S n1024 rho0 r0.2 s0 e16] epoch  2 lr 0.00140 train 3.0573
+[S n512 rho0 r0.2 s0 e16] valid 3.2790 test 3.2121
+[SW n512 rho0 r0.2 s0 e16] epoch 15 lr 0.00012 train 2.8531
+[SW n1024 rho0 r0.2 s0 e16] epoch  2 lr 0.00137 train 2.7765
+[SW n512 rho0 r0.2 s0 e16] epoch 16 lr 0.00012 train 2.8530
+[S n1024 rho0 r0.2 s0 e16] epoch  3 lr 0.00140 train 3.0547
+[SW n512 rho0 r0.2 s0 e16] valid 2.8987 test 2.8438
+[SW n1024 rho0 r0.2 s0 e16] epoch  3 lr 0.00137 train 2.7665
+[S n1024 rho0 r0.2 s0 e16] epoch  4 lr 0.00140 train 3.0540
+[SW n1024 rho0 r0.2 s0 e16] epoch  4 lr 0.00137 train 2.7627
+[S n1024 rho0 r0.2 s0 e16] epoch  5 lr 0.00140 train 3.0537
+[SW n1024 rho0 r0.2 s0 e16] epoch  5 lr 0.00137 train 2.7605
+[S n1024 rho0 r0.2 s0 e16] epoch  6 lr 0.00140 train 3.0535
+[SW n1024 rho0 r0.2 s0 e16] epoch  6 lr 0.00137 train 2.7590
+[S n1024 rho0 r0.2 s0 e16] epoch  7 lr 0.00140 train 3.0533
+[SW n1024 rho0 r0.2 s0 e16] epoch  7 lr 0.00137 train 2.7580
+[S n1024 rho0 r0.2 s0 e16] epoch  8 lr 0.00140 train 3.0532
+[SW n1024 rho0 r0.2 s0 e16] epoch  8 lr 0.00137 train 2.7573
+[S n1024 rho0 r0.2 s0 e16] epoch  9 lr 0.00035 train 3.0454
+[SW n1024 rho0 r0.2 s0 e16] epoch  9 lr 0.00034 train 2.7489
+[S n1024 rho0 r0.2 s0 e16] epoch 10 lr 0.00035 train 3.0449
+[SW n1024 rho0 r0.2 s0 e16] epoch 10 lr 0.00034 train 2.7482
+[S n1024 rho0 r0.2 s0 e16] epoch 11 lr 0.00035 train 3.0448
+[SW n1024 rho0 r0.2 s0 e16] epoch 11 lr 0.00034 train 2.7480
+[S n1024 rho0 r0.2 s0 e16] epoch 12 lr 0.00035 train 3.0447
+[SW n1024 rho0 r0.2 s0 e16] epoch 12 lr 0.00034 train 2.7478
+[S n1024 rho0 r0.2 s0 e16] epoch 13 lr 0.00009 train 3.0424
+[SW n1024 rho0 r0.2 s0 e16] epoch 13 lr 0.00009 train 2.7453
+[S n1024 rho0 r0.2 s0 e16] epoch 14 lr 0.00009 train 3.0422
+[S n1024 rho0 r0.2 s0 e16] epoch 15 lr 0.00009 train 3.0422
+[SW n1024 rho0 r0.2 s0 e16] epoch 14 lr 0.00009 train 2.7451
+[S n1024 rho0 r0.2 s0 e16] epoch 16 lr 0.00009 train 3.0422
+[S n1024 rho0 r0.2 s0 e16] valid 3.0945 test 3.0221
+[SW n1024 rho0 r0.2 s0 e16] epoch 15 lr 0.00009 train 2.7450
+[SW n1024 rho0 r0.2 s0 e16] epoch 16 lr 0.00009 train 2.7450
+[SW n1024 rho0 r0.2 s0 e16] valid 2.7999 test 2.7435
+[SW n1024 rho0 r0.2 s0 e32] epoch  1 lr 0.00137 train 2.9005
+[res n=512 rho=3 r=0.2 seed=0] g_in=10.6695 rate=0.2002
+[res n=512 rho=1 r=0.2 seed=0] g_in=10.9987 rate=0.2002
+[S n512 rho3 r0.2 s0 e8] epoch  1 lr 0.00198 train 3.3156
+[S n512 rho1 r0.2 s0 e8] epoch  1 lr 0.00198 train 3.3024
+[SW n512 rho3 r0.2 s0 e8] epoch  1 lr 0.00190 train 2.9985
+[SW n512 rho1 r0.2 s0 e8] epoch  1 lr 0.00190 train 2.9862
+[SW n1024 rho0 r0.2 s0 e32] epoch  2 lr 0.00137 train 2.7765
+[S n512 rho3 r0.2 s0 e8] epoch  2 lr 0.00198 train 3.2709
+[S n512 rho1 r0.2 s0 e8] epoch  2 lr 0.00198 train 3.2556
+[SW n512 rho3 r0.2 s0 e8] epoch  2 lr 0.00190 train 2.8956
+[SW n512 rho1 r0.2 s0 e8] epoch  2 lr 0.00190 train 2.8811
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-2 valid 3.5532
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-10 eps=3e-3 valid 3.5550
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-3 valid 3.5975
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-2 valid 3.5451
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-10 eps=3e-4 valid 3.6540
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-10 eps=3e-3 valid 3.5495
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-4 valid 3.7079
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-3 valid 3.5944
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-2 valid 3.5532
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-10 eps=3e-4 valid 3.6538
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-8 eps=3e-3 valid 3.5550
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-4 valid 3.7103
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-3 valid 3.5975
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-2 valid 3.5451
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-8 eps=3e-4 valid 3.6540
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-8 eps=3e-3 valid 3.5495
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-4 valid 3.7079
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-3 valid 3.5944
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-2 valid 3.5532
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-8 eps=3e-4 valid 3.6538
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-6 eps=3e-3 valid 3.5550
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-4 valid 3.7103
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-3 valid 3.5975
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-2 valid 3.5451
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-6 eps=3e-4 valid 3.6540
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-6 eps=3e-3 valid 3.5495
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-4 valid 3.7079
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-3 valid 3.5944
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-2 valid 3.5532
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-6 eps=3e-4 valid 3.6538
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-4 eps=3e-3 valid 3.5550
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-4 valid 3.7103
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-3 valid 3.5974
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-2 valid 3.5451
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-4 eps=3e-4 valid 3.6539
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-4 eps=3e-3 valid 3.5495
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-4 valid 3.7078
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-3 valid 3.5943
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-2 valid 3.5534
+[S n512 rho1 r0.2 s0 e8] epoch  3 lr 0.00198 train 3.2543
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-4 eps=3e-4 valid 3.6537
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-2 eps=3e-3 valid 3.5531
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-4 valid 3.7102
+[S n512 rho3 r0.2 s0 e8] epoch  3 lr 0.00198 train 3.2697
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-3 valid 3.5935
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-2 valid 3.5451
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-2 eps=3e-4 valid 3.6478
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-2 eps=3e-3 valid 3.5470
+[n512 rho3 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-4 valid 3.6996
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-3 valid 3.5898
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-2 eps=3e-4 valid 3.6467
+[n512 rho1 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-4 valid 3.7009
+[SW n512 rho3 r0.2 s0 e8] epoch  3 lr 0.00190 train 2.8867
+[SW n512 rho1 r0.2 s0 e8] epoch  3 lr 0.00190 train 2.8719
+[SW n1024 rho0 r0.2 s0 e32] epoch  3 lr 0.00137 train 2.7665
+[S n512 rho1 r0.2 s0 e8] epoch  4 lr 0.00198 train 3.2537
+[S n512 rho3 r0.2 s0 e8] epoch  4 lr 0.00198 train 3.2690
+[res n=1024 rho=1 r=0.05 seed=0] g_in=2.4676 rate=0.0502
+[SW n512 rho3 r0.2 s0 e8] epoch  4 lr 0.00190 train 2.8836
+[SW n512 rho1 r0.2 s0 e8] epoch  4 lr 0.00190 train 2.8685
+[S n1024 rho1 r0.05 s0 e8] epoch  1 lr 0.00280 train 3.1320
+[SW n1024 rho1 r0.05 s0 e8] epoch  1 lr 0.00260 train 2.9017
+[res n=1024 rho=3 r=0.05 seed=0] g_in=2.3060 rate=0.0503
+[S n512 rho1 r0.2 s0 e8] epoch  5 lr 0.00049 train 3.2478
+[S n512 rho3 r0.2 s0 e8] epoch  5 lr 0.00049 train 3.2631
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-2 valid 3.4214
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-10 eps=3e-3 valid 3.4175
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-3 valid 3.4582
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-10 eps=3e-4 valid 3.5139
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-4 valid 3.5673
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-2 valid 3.4214
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-8 eps=3e-3 valid 3.4175
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-3 valid 3.4582
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-8 eps=3e-4 valid 3.5139
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-4 valid 3.5673
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-2 valid 3.4214
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-6 eps=3e-3 valid 3.4175
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-3 valid 3.4582
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-6 eps=3e-4 valid 3.5139
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-4 valid 3.5673
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-2 valid 3.4214
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-4 eps=3e-3 valid 3.4175
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-3 valid 3.4581
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-4 eps=3e-4 valid 3.5138
+[SW n1024 rho0 r0.2 s0 e32] epoch  4 lr 0.00137 train 2.7627
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-4 valid 3.5672
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-2 valid 3.4221
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-2 eps=3e-3 valid 3.4170
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-3 valid 3.4565
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-2 eps=3e-4 valid 3.5111
+[n1024 rho1 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-4 valid 3.5635
+[S n1024 rho1 r0.05 s0 e8] epoch  2 lr 0.00280 train 3.0898
+[SW n512 rho3 r0.2 s0 e8] epoch  5 lr 0.00048 train 2.8763
+[SW n512 rho1 r0.2 s0 e8] epoch  5 lr 0.00048 train 2.8610
+[S n1024 rho3 r0.05 s0 e8] epoch  1 lr 0.00280 train 3.2028
+[SW n1024 rho1 r0.05 s0 e8] epoch  2 lr 0.00260 train 2.8233
+[SW n1024 rho3 r0.05 s0 e8] epoch  1 lr 0.00260 train 2.9565
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-2 valid 3.4691
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-10 eps=3e-3 valid 3.4638
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-3 valid 3.5018
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-10 eps=3e-4 valid 3.5543
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-10 eps=1e-4 valid 3.6048
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-2 valid 3.4691
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-8 eps=3e-3 valid 3.4638
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-3 valid 3.5018
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-8 eps=3e-4 valid 3.5543
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-8 eps=1e-4 valid 3.6048
+[S n512 rho1 r0.2 s0 e8] epoch  6 lr 0.00049 train 3.2473
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-2 valid 3.4691
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-6 eps=3e-3 valid 3.4638
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-3 valid 3.5018
+[S n1024 rho1 r0.05 s0 e8] epoch  3 lr 0.00280 train 3.0884
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-6 eps=3e-4 valid 3.5543
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-6 eps=1e-4 valid 3.6048
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-2 valid 3.4691
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-4 eps=3e-3 valid 3.4638
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-3 valid 3.5017
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-4 eps=3e-4 valid 3.5542
+[S n512 rho3 r0.2 s0 e8] epoch  6 lr 0.00049 train 3.2626
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-4 eps=1e-4 valid 3.6047
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-2 valid 3.4697
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-2 eps=3e-3 valid 3.4634
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-3 valid 3.5004
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-2 eps=3e-4 valid 3.5519
+[n1024 rho3 r0.05 s0 ridge] lambda_rel=1e-2 eps=1e-4 valid 3.6014
+[S n1024 rho3 r0.05 s0 e8] epoch  2 lr 0.00280 train 3.1681
+[SW n1024 rho1 r0.05 s0 e8] epoch  3 lr 0.00260 train 2.8171
+[SW n1024 rho3 r0.05 s0 e8] epoch  2 lr 0.00260 train 2.8794
+[SW n512 rho3 r0.2 s0 e8] epoch  6 lr 0.00048 train 2.8755
+[SW n512 rho1 r0.2 s0 e8] epoch  6 lr 0.00048 train 2.8602
+[S n1024 rho1 r0.05 s0 e8] epoch  4 lr 0.00280 train 3.0879
+[S n1024 rho3 r0.05 s0 e8] epoch  3 lr 0.00280 train 3.1669
+[S n512 rho1 r0.2 s0 e8] epoch  7 lr 0.00012 train 3.2455
+[SW n1024 rho1 r0.05 s0 e8] epoch  4 lr 0.00260 train 2.8151
+[SW n1024 rho3 r0.05 s0 e8] epoch  3 lr 0.00260 train 2.8734
+[S n512 rho3 r0.2 s0 e8] epoch  7 lr 0.00012 train 3.2608
+[S n1024 rho1 r0.05 s0 e8] epoch  5 lr 0.00070 train 3.0810
+[SW n1024 rho0 r0.2 s0 e32] epoch  5 lr 0.00137 train 2.7605
+[S n1024 rho3 r0.05 s0 e8] epoch  4 lr 0.00280 train 3.1664
+[SW n512 rho3 r0.2 s0 e8] epoch  7 lr 0.00012 train 2.8734
+[SW n512 rho1 r0.2 s0 e8] epoch  7 lr 0.00012 train 2.8581
+[SW n1024 rho1 r0.05 s0 e8] epoch  5 lr 0.00065 train 2.8071
+[SW n1024 rho3 r0.05 s0 e8] epoch  4 lr 0.00260 train 2.8718
+[S n1024 rho1 r0.05 s0 e8] epoch  6 lr 0.00070 train 3.0803
+[S n512 rho1 r0.2 s0 e8] epoch  8 lr 0.00012 train 3.2453
+[S n512 rho1 r0.2 s0 e8] valid 3.2818 test 3.2157
+[S n1024 rho3 r0.05 s0 e8] epoch  5 lr 0.00070 train 3.1595
+[S n512 rho3 r0.2 s0 e8] epoch  8 lr 0.00012 train 3.2607
+[S n512 rho3 r0.2 s0 e8] valid 3.2947 test 3.2323
+[SW n1024 rho1 r0.05 s0 e8] epoch  6 lr 0.00065 train 2.8061
+[S n1024 rho1 r0.05 s0 e8] epoch  7 lr 0.00017 train 3.0783
+[SW n1024 rho3 r0.05 s0 e8] epoch  5 lr 0.00065 train 2.8638
+[S n1024 rho3 r0.05 s0 e8] epoch  6 lr 0.00070 train 3.1587
+[SW n512 rho1 r0.2 s0 e8] epoch  8 lr 0.00012 train 2.8579
+[SW n512 rho3 r0.2 s0 e8] epoch  8 lr 0.00012 train 2.8732
+[SW n512 rho1 r0.2 s0 e8] valid 2.9018 test 2.8472
+[SW n512 rho3 r0.2 s0 e8] valid 2.9148 test 2.8654
+[S n512 rho1 r0.2 s0 e16] epoch  1 lr 0.00198 train 3.3024
+[S n1024 rho1 r0.05 s0 e8] epoch  8 lr 0.00017 train 3.0780
+[S n1024 rho1 r0.05 s0 e8] valid 3.1215 test 3.0569
+[SW n1024 rho1 r0.05 s0 e8] epoch  7 lr 0.00016 train 2.8038
+[SW n1024 rho3 r0.05 s0 e8] epoch  6 lr 0.00065 train 2.8629
+[S n512 rho3 r0.2 s0 e16] epoch  1 lr 0.00198 train 3.3156
+[S n1024 rho3 r0.05 s0 e8] epoch  7 lr 0.00017 train 3.1566
+[SW n1024 rho0 r0.2 s0 e32] epoch  6 lr 0.00137 train 2.7590
+[S n1024 rho1 r0.05 s0 e16] epoch  1 lr 0.00280 train 3.1320
+[SW n1024 rho1 r0.05 s0 e8] epoch  8 lr 0.00016 train 2.8035
+[SW n1024 rho1 r0.05 s0 e8] valid 2.8501 test 2.7969
+[SW n512 rho1 r0.2 s0 e16] epoch  1 lr 0.00190 train 2.9862
+[SW n1024 rho3 r0.05 s0 e8] epoch  7 lr 0.00016 train 2.8605
+[SW n512 rho3 r0.2 s0 e16] epoch  1 lr 0.00190 train 2.9985
+[S n1024 rho3 r0.05 s0 e8] epoch  8 lr 0.00017 train 3.1564
+[S n1024 rho3 r0.05 s0 e8] valid 3.1911 test 3.1343
+[S n512 rho1 r0.2 s0 e16] epoch  2 lr 0.00198 train 3.2556
+[S n512 rho3 r0.2 s0 e16] epoch  2 lr 0.00198 train 3.2709
+[S n1024 rho1 r0.05 s0 e16] epoch  2 lr 0.00280 train 3.0898
+[S n1024 rho3 r0.05 s0 e16] epoch  1 lr 0.00280 train 3.2028
+[SW n1024 rho1 r0.05 s0 e16] epoch  1 lr 0.00260 train 2.9017
+[SW n1024 rho3 r0.05 s0 e8] epoch  8 lr 0.00016 train 2.8602
+[SW n1024 rho3 r0.05 s0 e8] valid 2.9036 test 2.8516
+[S n1024 rho1 r0.05 s0 e16] epoch  3 lr 0.00280 train 3.0884
+[SW n512 rho1 r0.2 s0 e16] epoch  2 lr 0.00190 train 2.8811
+[SW n512 rho3 r0.2 s0 e16] epoch  2 lr 0.00190 train 2.8956
+[S n512 rho1 r0.2 s0 e16] epoch  3 lr 0.00198 train 3.2543
+[S n1024 rho3 r0.05 s0 e16] epoch  2 lr 0.00280 train 3.1681
+[SW n1024 rho1 r0.05 s0 e16] epoch  2 lr 0.00260 train 2.8233
+[S n512 rho3 r0.2 s0 e16] epoch  3 lr 0.00198 train 3.2697
+[SW n1024 rho3 r0.05 s0 e16] epoch  1 lr 0.00260 train 2.9565
+[SW n1024 rho0 r0.2 s0 e32] epoch  7 lr 0.00137 train 2.7580
+[S n1024 rho1 r0.05 s0 e16] epoch  4 lr 0.00280 train 3.0879
+[S n1024 rho3 r0.05 s0 e16] epoch  3 lr 0.00280 train 3.1669
+[SW n1024 rho1 r0.05 s0 e16] epoch  3 lr 0.00260 train 2.8171
+[SW n1024 rho3 r0.05 s0 e16] epoch  2 lr 0.00260 train 2.8794
+[S n512 rho1 r0.2 s0 e16] epoch  4 lr 0.00198 train 3.2537
+[SW n512 rho1 r0.2 s0 e16] epoch  3 lr 0.00190 train 2.8719
+[SW n512 rho3 r0.2 s0 e16] epoch  3 lr 0.00190 train 2.8867
+[S n1024 rho1 r0.05 s0 e16] epoch  5 lr 0.00280 train 3.0876
+[S n512 rho3 r0.2 s0 e16] epoch  4 lr 0.00198 train 3.2690
+[S n1024 rho3 r0.05 s0 e16] epoch  4 lr 0.00280 train 3.1664
+[SW n1024 rho1 r0.05 s0 e16] epoch  4 lr 0.00260 train 2.8151
+[SW n1024 rho3 r0.05 s0 e16] epoch  3 lr 0.00260 train 2.8734
+[S n1024 rho1 r0.05 s0 e16] epoch  6 lr 0.00280 train 3.0874
+[S n1024 rho3 r0.05 s0 e16] epoch  5 lr 0.00280 train 3.1661
+[S n512 rho1 r0.2 s0 e16] epoch  5 lr 0.00198 train 3.2532
+[SW n512 rho1 r0.2 s0 e16] epoch  4 lr 0.00190 train 2.8685
+[SW n512 rho3 r0.2 s0 e16] epoch  4 lr 0.00190 train 2.8836
+[S n512 rho3 r0.2 s0 e16] epoch  5 lr 0.00198 train 3.2686
+[SW n1024 rho1 r0.05 s0 e16] epoch  5 lr 0.00260 train 2.8143
+[S n1024 rho1 r0.05 s0 e16] epoch  7 lr 0.00280 train 3.0873
+[SW n1024 rho3 r0.05 s0 e16] epoch  4 lr 0.00260 train 2.8718
+[SW n1024 rho0 r0.2 s0 e32] epoch  8 lr 0.00137 train 2.7573
+[S n1024 rho3 r0.05 s0 e16] epoch  6 lr 0.00280 train 3.1660
+[S n1024 rho1 r0.05 s0 e16] epoch  8 lr 0.00280 train 3.0873
+[S n512 rho1 r0.2 s0 e16] epoch  6 lr 0.00198 train 3.2529
+[SW n1024 rho1 r0.05 s0 e16] epoch  6 lr 0.00260 train 2.8139
+[SW n1024 rho3 r0.05 s0 e16] epoch  5 lr 0.00260 train 2.8712
+[S n1024 rho3 r0.05 s0 e16] epoch  7 lr 0.00280 train 3.1659
+[SW n512 rho1 r0.2 s0 e16] epoch  5 lr 0.00190 train 2.8669
+[SW n512 rho3 r0.2 s0 e16] epoch  5 lr 0.00190 train 2.8821
+[S n512 rho3 r0.2 s0 e16] epoch  6 lr 0.00198 train 3.2682
+[S n1024 rho1 r0.05 s0 e16] epoch  9 lr 0.00070 train 3.0806
+[SW n1024 rho1 r0.05 s0 e16] epoch  7 lr 0.00260 train 2.8137
+[S n1024 rho3 r0.05 s0 e16] epoch  8 lr 0.00280 train 3.1658
+[SW n1024 rho3 r0.05 s0 e16] epoch  6 lr 0.00260 train 2.8709
+[S n512 rho1 r0.2 s0 e16] epoch  7 lr 0.00198 train 3.2526
+[S n1024 rho1 r0.05 s0 e16] epoch 10 lr 0.00070 train 3.0799
+[SW n512 rho1 r0.2 s0 e16] epoch  6 lr 0.00190 train 2.8660
+[S n512 rho3 r0.2 s0 e16] epoch  7 lr 0.00198 train 3.2679
+[S n1024 rho3 r0.05 s0 e16] epoch  9 lr 0.00070 train 3.1591
+[SW n512 rho3 r0.2 s0 e16] epoch  6 lr 0.00190 train 2.8814
+[SW n1024 rho1 r0.05 s0 e16] epoch  8 lr 0.00260 train 2.8136
+[SW n1024 rho3 r0.05 s0 e16] epoch  7 lr 0.00260 train 2.8708
+[SW n1024 rho0 r0.2 s0 e32] epoch  9 lr 0.00137 train 2.7567
+[S n1024 rho1 r0.05 s0 e16] epoch 11 lr 0.00070 train 3.0798
+[S n1024 rho3 r0.05 s0 e16] epoch 10 lr 0.00070 train 3.1583
+[S n512 rho1 r0.2 s0 e16] epoch  8 lr 0.00198 train 3.2524
+[SW n1024 rho1 r0.05 s0 e16] epoch  9 lr 0.00065 train 2.8061
+[SW n1024 rho3 r0.05 s0 e16] epoch  8 lr 0.00260 train 2.8707
+[S n512 rho3 r0.2 s0 e16] epoch  8 lr 0.00198 train 3.2676
+[S n1024 rho1 r0.05 s0 e16] epoch 12 lr 0.00070 train 3.0798
+[SW n512 rho1 r0.2 s0 e16] epoch  7 lr 0.00190 train 2.8655
+[SW n512 rho3 r0.2 s0 e16] epoch  7 lr 0.00190 train 2.8810
+[S n1024 rho3 r0.05 s0 e16] epoch 11 lr 0.00070 train 3.1583
+[SW n1024 rho1 r0.05 s0 e16] epoch 10 lr 0.00065 train 2.8053
+[SW n1024 rho3 r0.05 s0 e16] epoch  9 lr 0.00065 train 2.8632
+[S n1024 rho1 r0.05 s0 e16] epoch 13 lr 0.00017 train 3.0778
+[S n512 rho1 r0.2 s0 e16] epoch  9 lr 0.00049 train 3.2466
+[S n1024 rho3 r0.05 s0 e16] epoch 12 lr 0.00070 train 3.1582
+[S n512 rho3 r0.2 s0 e16] epoch  9 lr 0.00049 train 3.2619
+[SW n512 rho1 r0.2 s0 e16] epoch  8 lr 0.00190 train 2.8652
+[SW n1024 rho0 r0.2 s0 e32] epoch 10 lr 0.00137 train 2.7563
+[SW n1024 rho1 r0.05 s0 e16] epoch 11 lr 0.00065 train 2.8052
+[SW n1024 rho3 r0.05 s0 e16] epoch 10 lr 0.00065 train 2.8623
+[S n1024 rho1 r0.05 s0 e16] epoch 14 lr 0.00017 train 3.0776
+[SW n512 rho3 r0.2 s0 e16] epoch  8 lr 0.00190 train 2.8807
+[S n1024 rho3 r0.05 s0 e16] epoch 13 lr 0.00017 train 3.1563
+[S n512 rho1 r0.2 s0 e16] epoch 10 lr 0.00049 train 3.2462
+[S n1024 rho1 r0.05 s0 e16] epoch 15 lr 0.00017 train 3.0776
+[SW n1024 rho1 r0.05 s0 e16] epoch 12 lr 0.00065 train 2.8051
+[SW n1024 rho3 r0.05 s0 e16] epoch 11 lr 0.00065 train 2.8622
+[S n1024 rho3 r0.05 s0 e16] epoch 14 lr 0.00017 train 3.1560
+[S n512 rho3 r0.2 s0 e16] epoch 10 lr 0.00049 train 3.2614
+[SW n512 rho1 r0.2 s0 e16] epoch  9 lr 0.00048 train 2.8588
+[SW n512 rho3 r0.2 s0 e16] epoch  9 lr 0.00048 train 2.8744
+[S n1024 rho1 r0.05 s0 e16] epoch 16 lr 0.00017 train 3.0775
+[S n1024 rho1 r0.05 s0 e16] valid 3.1214 test 3.0568
+[SW n1024 rho1 r0.05 s0 e16] epoch 13 lr 0.00016 train 2.8029
+[SW n1024 rho3 r0.05 s0 e16] epoch 12 lr 0.00065 train 2.8622
+[S n1024 rho3 r0.05 s0 e16] epoch 15 lr 0.00017 train 3.1560
+[S n512 rho1 r0.2 s0 e16] epoch 11 lr 0.00049 train 3.2461
+[S n512 rho3 r0.2 s0 e16] epoch 11 lr 0.00049 train 3.2613
+[SW n1024 rho0 r0.2 s0 e32] epoch 11 lr 0.00137 train 2.7559
+[S n1024 rho3 r0.05 s0 e16] epoch 16 lr 0.00017 train 3.1560
+[S n1024 rho3 r0.05 s0 e16] valid 3.1909 test 3.1342
+[SW n1024 rho3 r0.05 s0 e16] epoch 13 lr 0.00016 train 2.8600
+[SW n1024 rho1 r0.05 s0 e16] epoch 14 lr 0.00016 train 2.8027
+[SW n512 rho1 r0.2 s0 e16] epoch 10 lr 0.00048 train 2.8583
+[SW n512 rho3 r0.2 s0 e16] epoch 10 lr 0.00048 train 2.8738
+[S n512 rho1 r0.2 s0 e16] epoch 12 lr 0.00049 train 3.2460
+[SW n1024 rho3 r0.05 s0 e16] epoch 14 lr 0.00016 train 2.8597
+[SW n1024 rho1 r0.05 s0 e16] epoch 15 lr 0.00016 train 2.8026
+[S n512 rho3 r0.2 s0 e16] epoch 12 lr 0.00049 train 3.2612
+[SW n512 rho1 r0.2 s0 e16] epoch 11 lr 0.00048 train 2.8582
+[SW n512 rho3 r0.2 s0 e16] epoch 11 lr 0.00048 train 2.8737
+[S n512 rho1 r0.2 s0 e16] epoch 13 lr 0.00012 train 3.2443
+[SW n1024 rho3 r0.05 s0 e16] epoch 15 lr 0.00016 train 2.8597
+[SW n1024 rho1 r0.05 s0 e16] epoch 16 lr 0.00016 train 2.8026
+[SW n1024 rho1 r0.05 s0 e16] valid 2.8496 test 2.7966
+[S n512 rho3 r0.2 s0 e16] epoch 13 lr 0.00012 train 3.2596
+[SW n1024 rho0 r0.2 s0 e32] epoch 12 lr 0.00137 train 2.7557
+[SW n1024 rho3 r0.05 s0 e16] epoch 16 lr 0.00016 train 2.8596
+[SW n1024 rho3 r0.05 s0 e16] valid 2.9034 test 2.8515
+[SW n512 rho1 r0.2 s0 e16] epoch 12 lr 0.00048 train 2.8581
+[S n512 rho1 r0.2 s0 e16] epoch 14 lr 0.00012 train 3.2442
+[SW n512 rho3 r0.2 s0 e16] epoch 12 lr 0.00048 train 2.8737
+[S n512 rho3 r0.2 s0 e16] epoch 14 lr 0.00012 train 3.2594
+[SW n512 rho1 r0.2 s0 e16] epoch 13 lr 0.00012 train 2.8562
+[S n512 rho1 r0.2 s0 e16] epoch 15 lr 0.00012 train 3.2441
+[SW n512 rho3 r0.2 s0 e16] epoch 13 lr 0.00012 train 2.8718
+[S n512 rho3 r0.2 s0 e16] epoch 15 lr 0.00012 train 3.2594
+[SW n1024 rho0 r0.2 s0 e32] epoch 13 lr 0.00137 train 2.7555
+[S n512 rho1 r0.2 s0 e16] epoch 16 lr 0.00012 train 3.2441
+[S n512 rho1 r0.2 s0 e16] valid 3.2806 test 3.2145
+[SW n512 rho1 r0.2 s0 e16] epoch 14 lr 0.00012 train 2.8561
+[SW n512 rho3 r0.2 s0 e16] epoch 14 lr 0.00012 train 2.8716
+[S n512 rho3 r0.2 s0 e16] epoch 16 lr 0.00012 train 3.2594
+[S n512 rho3 r0.2 s0 e16] valid 3.2934 test 3.2311
+[SW n512 rho1 r0.2 s0 e16] epoch 15 lr 0.00012 train 2.8560
+[SW n512 rho3 r0.2 s0 e16] epoch 15 lr 0.00012 train 2.8716
+[SW n1024 rho0 r0.2 s0 e32] epoch 14 lr 0.00137 train 2.7553
+[SW n512 rho1 r0.2 s0 e16] epoch 16 lr 0.00012 train 2.8560
+[SW n512 rho1 r0.2 s0 e16] valid 2.9003 test 2.8461
+[SW n512 rho3 r0.2 s0 e16] epoch 16 lr 0.00012 train 2.8716
+[SW n512 rho3 r0.2 s0 e16] valid 2.9136 test 2.8646
+[SW n1024 rho0 r0.2 s0 e32] epoch 15 lr 0.00137 train 2.7551
+[SW n1024 rho0 r0.2 s0 e32] epoch 16 lr 0.00137 train 2.7550
+[SW n1024 rho0 r0.2 s0 e32] epoch 17 lr 0.00034 train 2.7469
+[SW n1024 rho0 r0.2 s0 e32] epoch 18 lr 0.00034 train 2.7463
+[SW n1024 rho0 r0.2 s0 e32] epoch 19 lr 0.00034 train 2.7462
+[SW n1024 rho0 r0.2 s0 e32] epoch 20 lr 0.00034 train 2.7461
+[SW n1024 rho0 r0.2 s0 e32] epoch 21 lr 0.00034 train 2.7461
+[SW n1024 rho0 r0.2 s0 e32] epoch 22 lr 0.00034 train 2.7461
+[SW n1024 rho0 r0.2 s0 e32] epoch 23 lr 0.00034 train 2.7460
+[SW n1024 rho0 r0.2 s0 e32] epoch 24 lr 0.00034 train 2.7460
+[SW n1024 rho0 r0.2 s0 e32] epoch 25 lr 0.00009 train 2.7435
+[SW n1024 rho0 r0.2 s0 e32] epoch 26 lr 0.00009 train 2.7434
+[SW n1024 rho0 r0.2 s0 e32] epoch 27 lr 0.00009 train 2.7433
+[SW n1024 rho0 r0.2 s0 e32] epoch 28 lr 0.00009 train 2.7433
+[SW n1024 rho0 r0.2 s0 e32] epoch 29 lr 0.00009 train 2.7433
+[SW n1024 rho0 r0.2 s0 e32] epoch 30 lr 0.00009 train 2.7433
+[SW n1024 rho0 r0.2 s0 e32] epoch 31 lr 0.00009 train 2.7433
+[SW n1024 rho0 r0.2 s0 e32] epoch 32 lr 0.00009 train 2.7433
+[SW n1024 rho0 r0.2 s0 e32] valid 2.7983 test 2.7424
+[res n=1024 rho=3 r=0.2 seed=0] g_in=10.8186 rate=0.2007
+[res n=1024 rho=1 r=0.2 seed=0] g_in=11.1664 rate=0.2007
+[S n1024 rho3 r0.2 s0 e8] epoch  1 lr 0.00140 train 3.1520
+[SW n1024 rho3 r0.2 s0 e8] epoch  1 lr 0.00137 train 2.9196
+[S n1024 rho1 r0.2 s0 e8] epoch  1 lr 0.00140 train 3.1353
+[SW n1024 rho1 r0.2 s0 e8] epoch  1 lr 0.00137 train 2.9031
+[S n1024 rho3 r0.2 s0 e8] epoch  2 lr 0.00140 train 3.0844
+[SW n1024 rho3 r0.2 s0 e8] epoch  2 lr 0.00137 train 2.8011
+[S n1024 rho1 r0.2 s0 e8] epoch  2 lr 0.00140 train 3.0615
+[SW n1024 rho1 r0.2 s0 e8] epoch  2 lr 0.00137 train 2.7796
+[S n1024 rho3 r0.2 s0 e8] epoch  3 lr 0.00140 train 3.0824
+[SW n1024 rho3 r0.2 s0 e8] epoch  3 lr 0.00137 train 2.7916
+[S n1024 rho1 r0.2 s0 e8] epoch  3 lr 0.00140 train 3.0591
+[SW n1024 rho1 r0.2 s0 e8] epoch  3 lr 0.00137 train 2.7698
+[S n1024 rho3 r0.2 s0 e8] epoch  4 lr 0.00140 train 3.0819
+[SW n1024 rho3 r0.2 s0 e8] epoch  4 lr 0.00137 train 2.7879
+[S n1024 rho1 r0.2 s0 e8] epoch  4 lr 0.00140 train 3.0584
+[SW n1024 rho1 r0.2 s0 e8] epoch  4 lr 0.00137 train 2.7660
+[S n1024 rho3 r0.2 s0 e8] epoch  5 lr 0.00035 train 3.0740
+[SW n1024 rho3 r0.2 s0 e8] epoch  5 lr 0.00034 train 2.7783
+[S n1024 rho1 r0.2 s0 e8] epoch  5 lr 0.00035 train 3.0505
+[SW n1024 rho1 r0.2 s0 e8] epoch  5 lr 0.00034 train 2.7564
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-2 valid 3.4318
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-10 eps=3e-3 valid 3.4349
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-3 valid 3.4809
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-10 eps=3e-4 valid 3.5426
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-4 valid 3.6016
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-2 valid 3.4318
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-8 eps=3e-3 valid 3.4349
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-3 valid 3.4809
+[S n1024 rho3 r0.2 s0 e8] epoch  6 lr 0.00035 train 3.0734
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-8 eps=3e-4 valid 3.5426
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-4 valid 3.6016
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-2 valid 3.4318
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-6 eps=3e-3 valid 3.4349
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-3 valid 3.4809
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-6 eps=3e-4 valid 3.5426
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-4 valid 3.6016
+[SW n1024 rho3 r0.2 s0 e8] epoch  6 lr 0.00034 train 2.7773
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-2 valid 3.4319
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-2 valid 3.4174
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-4 eps=3e-3 valid 3.4349
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-10 eps=3e-3 valid 3.4220
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-3 valid 3.4808
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-3 valid 3.4695
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-4 eps=3e-4 valid 3.5425
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-10 eps=3e-4 valid 3.5327
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-4 valid 3.6014
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-10 eps=1e-4 valid 3.5932
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-2 valid 3.4326
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-2 valid 3.4174
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-2 eps=3e-3 valid 3.4333
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-8 eps=3e-3 valid 3.4220
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-3 valid 3.4772
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-3 valid 3.4695
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-2 eps=3e-4 valid 3.5364
+[S n1024 rho1 r0.2 s0 e8] epoch  6 lr 0.00035 train 3.0499
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-8 eps=3e-4 valid 3.5327
+[n1024 rho3 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-4 valid 3.5931
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-8 eps=1e-4 valid 3.5932
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-2 valid 3.4174
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-6 eps=3e-3 valid 3.4220
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-3 valid 3.4695
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-6 eps=3e-4 valid 3.5327
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-6 eps=1e-4 valid 3.5932
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-2 valid 3.4174
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-4 eps=3e-3 valid 3.4220
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-3 valid 3.4694
+[SW n1024 rho1 r0.2 s0 e8] epoch  6 lr 0.00034 train 2.7553
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-4 eps=3e-4 valid 3.5326
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-4 eps=1e-4 valid 3.5931
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-2 valid 3.4190
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-2 eps=3e-3 valid 3.4211
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-3 valid 3.4664
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-2 eps=3e-4 valid 3.5270
+[n1024 rho1 r0.2 s0 ridge] lambda_rel=1e-2 eps=1e-4 valid 3.5850
+[S n1024 rho3 r0.2 s0 e8] epoch  7 lr 0.00009 train 3.0709
+[SW n1024 rho3 r0.2 s0 e8] epoch  7 lr 0.00009 train 2.7744
+[S n1024 rho1 r0.2 s0 e8] epoch  7 lr 0.00009 train 3.0475
+[SW n1024 rho1 r0.2 s0 e8] epoch  7 lr 0.00009 train 2.7525
+[S n1024 rho3 r0.2 s0 e8] epoch  8 lr 0.00009 train 3.0708
+[S n1024 rho3 r0.2 s0 e8] valid 3.1180 test 3.0496
+[SW n1024 rho3 r0.2 s0 e8] epoch  8 lr 0.00009 train 2.7742
+[SW n1024 rho3 r0.2 s0 e8] valid 2.8252 test 2.7699
+[S n1024 rho1 r0.2 s0 e8] epoch  8 lr 0.00009 train 3.0473
+[S n1024 rho1 r0.2 s0 e8] valid 3.0978 test 3.0276
+[SW n1024 rho1 r0.2 s0 e8] epoch  8 lr 0.00009 train 2.7522
+[SW n1024 rho1 r0.2 s0 e8] valid 2.8050 test 2.7494
+[S n1024 rho3 r0.2 s0 e16] epoch  1 lr 0.00140 train 3.1520
+[S n1024 rho1 r0.2 s0 e16] epoch  1 lr 0.00140 train 3.1353
+[SW n1024 rho3 r0.2 s0 e16] epoch  1 lr 0.00137 train 2.9196
+[SW n1024 rho1 r0.2 s0 e16] epoch  1 lr 0.00137 train 2.9031
+[S n1024 rho3 r0.2 s0 e16] epoch  2 lr 0.00140 train 3.0844
+[S n1024 rho1 r0.2 s0 e16] epoch  2 lr 0.00140 train 3.0615
+[SW n1024 rho3 r0.2 s0 e16] epoch  2 lr 0.00137 train 2.8011
+[SW n1024 rho1 r0.2 s0 e16] epoch  2 lr 0.00137 train 2.7796
+[S n1024 rho3 r0.2 s0 e16] epoch  3 lr 0.00140 train 3.0824
+[S n1024 rho1 r0.2 s0 e16] epoch  3 lr 0.00140 train 3.0591
+[SW n1024 rho3 r0.2 s0 e16] epoch  3 lr 0.00137 train 2.7916
+[SW n1024 rho1 r0.2 s0 e16] epoch  3 lr 0.00137 train 2.7698
+[S n1024 rho3 r0.2 s0 e16] epoch  4 lr 0.00140 train 3.0819
+[S n1024 rho1 r0.2 s0 e16] epoch  4 lr 0.00140 train 3.0584
+[SW n1024 rho3 r0.2 s0 e16] epoch  4 lr 0.00137 train 2.7879
+[SW n1024 rho1 r0.2 s0 e16] epoch  4 lr 0.00137 train 2.7660
+[S n1024 rho3 r0.2 s0 e16] epoch  5 lr 0.00140 train 3.0816
+[S n1024 rho1 r0.2 s0 e16] epoch  5 lr 0.00140 train 3.0580
+[SW n1024 rho3 r0.2 s0 e16] epoch  5 lr 0.00137 train 2.7858
+[SW n1024 rho1 r0.2 s0 e16] epoch  5 lr 0.00137 train 2.7638
+[S n1024 rho3 r0.2 s0 e16] epoch  6 lr 0.00140 train 3.0813
+[S n1024 rho1 r0.2 s0 e16] epoch  6 lr 0.00140 train 3.0578
+[SW n1024 rho3 r0.2 s0 e16] epoch  6 lr 0.00137 train 2.7844
+[SW n1024 rho1 r0.2 s0 e16] epoch  6 lr 0.00137 train 2.7624
+[S n1024 rho3 r0.2 s0 e16] epoch  7 lr 0.00140 train 3.0812
+[S n1024 rho1 r0.2 s0 e16] epoch  7 lr 0.00140 train 3.0576
+[SW n1024 rho3 r0.2 s0 e16] epoch  7 lr 0.00137 train 2.7834
+[SW n1024 rho1 r0.2 s0 e16] epoch  7 lr 0.00137 train 2.7614
+[S n1024 rho3 r0.2 s0 e16] epoch  8 lr 0.00140 train 3.0810
+[S n1024 rho1 r0.2 s0 e16] epoch  8 lr 0.00140 train 3.0575
+[SW n1024 rho3 r0.2 s0 e16] epoch  8 lr 0.00137 train 2.7828
+[S n1024 rho3 r0.2 s0 e16] epoch  9 lr 0.00035 train 3.0733
+[SW n1024 rho1 r0.2 s0 e16] epoch  8 lr 0.00137 train 2.7606
+[S n1024 rho1 r0.2 s0 e16] epoch  9 lr 0.00035 train 3.0497
+[SW n1024 rho3 r0.2 s0 e16] epoch  9 lr 0.00034 train 2.7743
+[S n1024 rho3 r0.2 s0 e16] epoch 10 lr 0.00035 train 3.0727
+[SW n1024 rho1 r0.2 s0 e16] epoch  9 lr 0.00034 train 2.7522
+[S n1024 rho1 r0.2 s0 e16] epoch 10 lr 0.00035 train 3.0492
+[SW n1024 rho3 r0.2 s0 e16] epoch 10 lr 0.00034 train 2.7736
+[S n1024 rho3 r0.2 s0 e16] epoch 11 lr 0.00035 train 3.0726
+[SW n1024 rho1 r0.2 s0 e16] epoch 10 lr 0.00034 train 2.7515
+[S n1024 rho1 r0.2 s0 e16] epoch 11 lr 0.00035 train 3.0491
+[SW n1024 rho3 r0.2 s0 e16] epoch 11 lr 0.00034 train 2.7734
+[S n1024 rho3 r0.2 s0 e16] epoch 12 lr 0.00035 train 3.0726
+[SW n1024 rho1 r0.2 s0 e16] epoch 11 lr 0.00034 train 2.7513
+[S n1024 rho1 r0.2 s0 e16] epoch 12 lr 0.00035 train 3.0490
+[SW n1024 rho3 r0.2 s0 e16] epoch 12 lr 0.00034 train 2.7733
+[S n1024 rho3 r0.2 s0 e16] epoch 13 lr 0.00009 train 3.0702
+[SW n1024 rho1 r0.2 s0 e16] epoch 12 lr 0.00034 train 2.7511
+[S n1024 rho1 r0.2 s0 e16] epoch 13 lr 0.00009 train 3.0466
+[SW n1024 rho3 r0.2 s0 e16] epoch 13 lr 0.00009 train 2.7707
+[S n1024 rho3 r0.2 s0 e16] epoch 14 lr 0.00009 train 3.0700
+[S n1024 rho1 r0.2 s0 e16] epoch 14 lr 0.00009 train 3.0465
+[SW n1024 rho1 r0.2 s0 e16] epoch 13 lr 0.00009 train 2.7486
+[SW n1024 rho3 r0.2 s0 e16] epoch 14 lr 0.00009 train 2.7706
+[S n1024 rho3 r0.2 s0 e16] epoch 15 lr 0.00009 train 3.0700
+[S n1024 rho1 r0.2 s0 e16] epoch 15 lr 0.00009 train 3.0464
+[SW n1024 rho1 r0.2 s0 e16] epoch 14 lr 0.00009 train 2.7484
+[S n1024 rho3 r0.2 s0 e16] epoch 16 lr 0.00009 train 3.0700
+[SW n1024 rho3 r0.2 s0 e16] epoch 15 lr 0.00009 train 2.7705
+[S n1024 rho3 r0.2 s0 e16] valid 3.1175 test 3.0490
+[S n1024 rho1 r0.2 s0 e16] epoch 16 lr 0.00009 train 3.0464
+[SW n1024 rho1 r0.2 s0 e16] epoch 15 lr 0.00009 train 2.7483
+[S n1024 rho1 r0.2 s0 e16] valid 3.0972 test 3.0269
+[SW n1024 rho3 r0.2 s0 e16] epoch 16 lr 0.00009 train 2.7705
+[SW n1024 rho3 r0.2 s0 e16] valid 2.8219 test 2.7673
+[SW n1024 rho1 r0.2 s0 e16] epoch 16 lr 0.00009 train 2.7483
+[SW n1024 rho1 r0.2 s0 e16] valid 2.8014 test 2.7466
+[SW n1024 rho3 r0.2 s0 e32] epoch  1 lr 0.00137 train 2.9196
+[SW n1024 rho1 r0.2 s0 e32] epoch  1 lr 0.00137 train 2.9031
+[SW n1024 rho3 r0.2 s0 e32] epoch  2 lr 0.00137 train 2.8011
+[SW n1024 rho1 r0.2 s0 e32] epoch  2 lr 0.00137 train 2.7796
+[SW n1024 rho3 r0.2 s0 e32] epoch  3 lr 0.00137 train 2.7916
+[SW n1024 rho1 r0.2 s0 e32] epoch  3 lr 0.00137 train 2.7698
+[SW n1024 rho3 r0.2 s0 e32] epoch  4 lr 0.00137 train 2.7879
+[SW n1024 rho1 r0.2 s0 e32] epoch  4 lr 0.00137 train 2.7660
+[SW n1024 rho3 r0.2 s0 e32] epoch  5 lr 0.00137 train 2.7858
+[SW n1024 rho1 r0.2 s0 e32] epoch  5 lr 0.00137 train 2.7638
+[SW n1024 rho3 r0.2 s0 e32] epoch  6 lr 0.00137 train 2.7844
+[SW n1024 rho1 r0.2 s0 e32] epoch  6 lr 0.00137 train 2.7624
+[SW n1024 rho3 r0.2 s0 e32] epoch  7 lr 0.00137 train 2.7834
+[SW n1024 rho1 r0.2 s0 e32] epoch  7 lr 0.00137 train 2.7614
+[SW n1024 rho3 r0.2 s0 e32] epoch  8 lr 0.00137 train 2.7828
+[SW n1024 rho1 r0.2 s0 e32] epoch  8 lr 0.00137 train 2.7606
+[SW n1024 rho3 r0.2 s0 e32] epoch  9 lr 0.00137 train 2.7823
+[SW n1024 rho1 r0.2 s0 e32] epoch  9 lr 0.00137 train 2.7601
+[SW n1024 rho3 r0.2 s0 e32] epoch 10 lr 0.00137 train 2.7819
+[SW n1024 rho1 r0.2 s0 e32] epoch 10 lr 0.00137 train 2.7597
+[SW n1024 rho3 r0.2 s0 e32] epoch 11 lr 0.00137 train 2.7816
+[SW n1024 rho1 r0.2 s0 e32] epoch 11 lr 0.00137 train 2.7593
+[SW n1024 rho3 r0.2 s0 e32] epoch 12 lr 0.00137 train 2.7813
+[SW n1024 rho1 r0.2 s0 e32] epoch 12 lr 0.00137 train 2.7591
+[SW n1024 rho3 r0.2 s0 e32] epoch 13 lr 0.00137 train 2.7811
+[SW n1024 rho1 r0.2 s0 e32] epoch 13 lr 0.00137 train 2.7588
+[SW n1024 rho3 r0.2 s0 e32] epoch 14 lr 0.00137 train 2.7810
+[SW n1024 rho1 r0.2 s0 e32] epoch 14 lr 0.00137 train 2.7587
+[SW n1024 rho3 r0.2 s0 e32] epoch 15 lr 0.00137 train 2.7809
+[SW n1024 rho1 r0.2 s0 e32] epoch 15 lr 0.00137 train 2.7585
+[SW n1024 rho3 r0.2 s0 e32] epoch 16 lr 0.00137 train 2.7808
+[SW n1024 rho1 r0.2 s0 e32] epoch 16 lr 0.00137 train 2.7584
+[SW n1024 rho3 r0.2 s0 e32] epoch 17 lr 0.00034 train 2.7726
+[SW n1024 rho1 r0.2 s0 e32] epoch 17 lr 0.00034 train 2.7503
+[SW n1024 rho3 r0.2 s0 e32] epoch 18 lr 0.00034 train 2.7720
+[SW n1024 rho1 r0.2 s0 e32] epoch 18 lr 0.00034 train 2.7497
+[SW n1024 rho3 r0.2 s0 e32] epoch 19 lr 0.00034 train 2.7719
+[SW n1024 rho1 r0.2 s0 e32] epoch 19 lr 0.00034 train 2.7496
+[SW n1024 rho3 r0.2 s0 e32] epoch 20 lr 0.00034 train 2.7719
+[SW n1024 rho1 r0.2 s0 e32] epoch 20 lr 0.00034 train 2.7495
+[SW n1024 rho3 r0.2 s0 e32] epoch 21 lr 0.00034 train 2.7718
+[SW n1024 rho1 r0.2 s0 e32] epoch 21 lr 0.00034 train 2.7495
+[SW n1024 rho3 r0.2 s0 e32] epoch 22 lr 0.00034 train 2.7718
+[SW n1024 rho1 r0.2 s0 e32] epoch 22 lr 0.00034 train 2.7495
+[SW n1024 rho3 r0.2 s0 e32] epoch 23 lr 0.00034 train 2.7718
+[SW n1024 rho1 r0.2 s0 e32] epoch 23 lr 0.00034 train 2.7494
+[SW n1024 rho3 r0.2 s0 e32] epoch 24 lr 0.00034 train 2.7718
+[SW n1024 rho1 r0.2 s0 e32] epoch 24 lr 0.00034 train 2.7494
+[SW n1024 rho3 r0.2 s0 e32] epoch 25 lr 0.00009 train 2.7693
+[SW n1024 rho1 r0.2 s0 e32] epoch 25 lr 0.00009 train 2.7469
+[SW n1024 rho3 r0.2 s0 e32] epoch 26 lr 0.00009 train 2.7691
+[SW n1024 rho1 r0.2 s0 e32] epoch 26 lr 0.00009 train 2.7468
+[SW n1024 rho3 r0.2 s0 e32] epoch 27 lr 0.00009 train 2.7691
+[SW n1024 rho1 r0.2 s0 e32] epoch 27 lr 0.00009 train 2.7467
+[SW n1024 rho3 r0.2 s0 e32] epoch 28 lr 0.00009 train 2.7691
+[SW n1024 rho1 r0.2 s0 e32] epoch 28 lr 0.00009 train 2.7467
+[SW n1024 rho3 r0.2 s0 e32] epoch 29 lr 0.00009 train 2.7690
+[SW n1024 rho1 r0.2 s0 e32] epoch 29 lr 0.00009 train 2.7467
+[SW n1024 rho3 r0.2 s0 e32] epoch 30 lr 0.00009 train 2.7690
+[SW n1024 rho1 r0.2 s0 e32] epoch 30 lr 0.00009 train 2.7467
+[SW n1024 rho3 r0.2 s0 e32] epoch 31 lr 0.00009 train 2.7690
+[SW n1024 rho1 r0.2 s0 e32] epoch 31 lr 0.00009 train 2.7467
+[SW n1024 rho3 r0.2 s0 e32] epoch 32 lr 0.00009 train 2.7690
+[SW n1024 rho3 r0.2 s0 e32] valid 2.8206 test 2.7665
+[SW n1024 rho1 r0.2 s0 e32] epoch 32 lr 0.00009 train 2.7467
+[SW n1024 rho1 r0.2 s0 e32] valid 2.7999 test 2.7456
+[res n=1024 rho=0 r=0.2 seed=2] g_in=11.7167 rate=0.2006
+[res n=1024 rho=0 r=0.2 seed=2] g_in=11.7167 rate=0.2006
+[res n=1024 rho=0 r=0.2 seed=1] g_in=11.1480 rate=0.2006
+[res n=1024 rho=0 r=0.2 seed=1] g_in=11.1480 rate=0.2006
+[S n1024 rho0 r0.2 s2 e8] epoch  1 lr 0.00140 train 3.1238
+[S n1024 rho0 r0.2 s1 e8] epoch  1 lr 0.00140 train 3.1242
+[SW n1024 rho0 r0.2 s2 e8] epoch  1 lr 0.00137 train 2.9003
+[SW n1024 rho0 r0.2 s1 e8] epoch  1 lr 0.00137 train 2.8997
+[S n1024 rho0 r0.2 s2 e8] epoch  2 lr 0.00140 train 3.0478
+[S n1024 rho0 r0.2 s1 e8] epoch  2 lr 0.00140 train 3.0497
+[SW n1024 rho0 r0.2 s2 e8] epoch  2 lr 0.00137 train 2.7788
+[SW n1024 rho0 r0.2 s1 e8] epoch  2 lr 0.00137 train 2.7771
+[S n1024 rho0 r0.2 s2 e8] epoch  3 lr 0.00140 train 3.0452
+[S n1024 rho0 r0.2 s1 e8] epoch  3 lr 0.00140 train 3.0470
+[SW n1024 rho0 r0.2 s2 e8] epoch  3 lr 0.00137 train 2.7688
+[SW n1024 rho0 r0.2 s1 e8] epoch  3 lr 0.00137 train 2.7672
+[S n1024 rho0 r0.2 s2 e8] epoch  4 lr 0.00140 train 3.0445
+[S n1024 rho0 r0.2 s1 e8] epoch  4 lr 0.00140 train 3.0463
+[SW n1024 rho0 r0.2 s2 e8] epoch  4 lr 0.00137 train 2.7649
+[SW n1024 rho0 r0.2 s1 e8] epoch  4 lr 0.00137 train 2.7634
+[S n1024 rho0 r0.2 s2 e8] epoch  5 lr 0.00035 train 3.0365
+[S n1024 rho0 r0.2 s1 e8] epoch  5 lr 0.00035 train 3.0384
+[SW n1024 rho0 r0.2 s2 e8] epoch  5 lr 0.00034 train 2.7553
+[SW n1024 rho0 r0.2 s1 e8] epoch  5 lr 0.00034 train 2.7538
+[S n1024 rho0 r0.2 s2 e8] epoch  6 lr 0.00035 train 3.0359
+[S n1024 rho0 r0.2 s1 e8] epoch  6 lr 0.00035 train 3.0378
+[SW n1024 rho0 r0.2 s2 e8] epoch  6 lr 0.00034 train 2.7542
+[SW n1024 rho0 r0.2 s1 e8] epoch  6 lr 0.00034 train 2.7528
+[S n1024 rho0 r0.2 s2 e8] epoch  7 lr 0.00009 train 3.0335
+[S n1024 rho0 r0.2 s1 e8] epoch  7 lr 0.00009 train 3.0353
+[SW n1024 rho0 r0.2 s2 e8] epoch  7 lr 0.00009 train 2.7513
+[SW n1024 rho0 r0.2 s1 e8] epoch  7 lr 0.00009 train 2.7499
+[S n1024 rho0 r0.2 s2 e8] epoch  8 lr 0.00009 train 3.0333
+[S n1024 rho0 r0.2 s1 e8] epoch  8 lr 0.00009 train 3.0352
+[S n1024 rho0 r0.2 s2 e8] valid 3.0794 test 3.0152
+[S n1024 rho0 r0.2 s1 e8] valid 3.0880 test 3.0202
+[SW n1024 rho0 r0.2 s2 e8] epoch  8 lr 0.00009 train 2.7511
+[SW n1024 rho0 r0.2 s2 e8] valid 2.8025 test 2.7484
+[SW n1024 rho0 r0.2 s1 e8] epoch  8 lr 0.00009 train 2.7497
+[SW n1024 rho0 r0.2 s1 e8] valid 2.8053 test 2.7470
+[S n1024 rho0 r0.2 s2 e16] epoch  1 lr 0.00140 train 3.1238
+[S n1024 rho0 r0.2 s1 e16] epoch  1 lr 0.00140 train 3.1242
+[SW n1024 rho0 r0.2 s2 e16] epoch  1 lr 0.00137 train 2.9003
+[SW n1024 rho0 r0.2 s1 e16] epoch  1 lr 0.00137 train 2.8997
+[S n1024 rho0 r0.2 s2 e16] epoch  2 lr 0.00140 train 3.0478
+[S n1024 rho0 r0.2 s1 e16] epoch  2 lr 0.00140 train 3.0497
+[SW n1024 rho0 r0.2 s2 e16] epoch  2 lr 0.00137 train 2.7788
+[SW n1024 rho0 r0.2 s1 e16] epoch  2 lr 0.00137 train 2.7771
+[S n1024 rho0 r0.2 s2 e16] epoch  3 lr 0.00140 train 3.0452
+[S n1024 rho0 r0.2 s1 e16] epoch  3 lr 0.00140 train 3.0470
+[SW n1024 rho0 r0.2 s2 e16] epoch  3 lr 0.00137 train 2.7688
+[SW n1024 rho0 r0.2 s1 e16] epoch  3 lr 0.00137 train 2.7672
+[S n1024 rho0 r0.2 s2 e16] epoch  4 lr 0.00140 train 3.0445
+[S n1024 rho0 r0.2 s1 e16] epoch  4 lr 0.00140 train 3.0463
+[SW n1024 rho0 r0.2 s2 e16] epoch  4 lr 0.00137 train 2.7649
+[SW n1024 rho0 r0.2 s1 e16] epoch  4 lr 0.00137 train 2.7634
+[S n1024 rho0 r0.2 s2 e16] epoch  5 lr 0.00140 train 3.0442
+[S n1024 rho0 r0.2 s1 e16] epoch  5 lr 0.00140 train 3.0460
+[SW n1024 rho0 r0.2 s2 e16] epoch  5 lr 0.00137 train 2.7628
+[SW n1024 rho0 r0.2 s1 e16] epoch  5 lr 0.00137 train 2.7613
+[S n1024 rho0 r0.2 s2 e16] epoch  6 lr 0.00140 train 3.0440
+[S n1024 rho0 r0.2 s1 e16] epoch  6 lr 0.00140 train 3.0458
+[SW n1024 rho0 r0.2 s2 e16] epoch  6 lr 0.00137 train 2.7614
+[SW n1024 rho0 r0.2 s1 e16] epoch  6 lr 0.00137 train 2.7600
+[S n1024 rho0 r0.2 s2 e16] epoch  7 lr 0.00140 train 3.0438
+[S n1024 rho0 r0.2 s1 e16] epoch  7 lr 0.00140 train 3.0456
+[SW n1024 rho0 r0.2 s2 e16] epoch  7 lr 0.00137 train 2.7604
+[SW n1024 rho0 r0.2 s1 e16] epoch  7 lr 0.00137 train 2.7590
+[S n1024 rho0 r0.2 s2 e16] epoch  8 lr 0.00140 train 3.0437
+[S n1024 rho0 r0.2 s1 e16] epoch  8 lr 0.00140 train 3.0455
+[SW n1024 rho0 r0.2 s2 e16] epoch  8 lr 0.00137 train 2.7597
+[SW n1024 rho0 r0.2 s1 e16] epoch  8 lr 0.00137 train 2.7583
+[S n1024 rho0 r0.2 s2 e16] epoch  9 lr 0.00035 train 3.0359
+[S n1024 rho0 r0.2 s1 e16] epoch  9 lr 0.00035 train 3.0377
+[SW n1024 rho0 r0.2 s2 e16] epoch  9 lr 0.00034 train 2.7512
+[SW n1024 rho0 r0.2 s1 e16] epoch  9 lr 0.00034 train 2.7499
+[S n1024 rho0 r0.2 s2 e16] epoch 10 lr 0.00035 train 3.0354
+[S n1024 rho0 r0.2 s1 e16] epoch 10 lr 0.00035 train 3.0372
+[SW n1024 rho0 r0.2 s2 e16] epoch 10 lr 0.00034 train 2.7505
+[S n1024 rho0 r0.2 s2 e16] epoch 11 lr 0.00035 train 3.0352
+[SW n1024 rho0 r0.2 s1 e16] epoch 10 lr 0.00034 train 2.7492
+[S n1024 rho0 r0.2 s1 e16] epoch 11 lr 0.00035 train 3.0371
+[SW n1024 rho0 r0.2 s2 e16] epoch 11 lr 0.00034 train 2.7503
+[S n1024 rho0 r0.2 s2 e16] epoch 12 lr 0.00035 train 3.0352
+[S n1024 rho0 r0.2 s1 e16] epoch 12 lr 0.00035 train 3.0370
+[SW n1024 rho0 r0.2 s1 e16] epoch 11 lr 0.00034 train 2.7490
+[S n1024 rho0 r0.2 s2 e16] epoch 13 lr 0.00009 train 3.0328
+[S n1024 rho0 r0.2 s1 e16] epoch 13 lr 0.00009 train 3.0346
+[SW n1024 rho0 r0.2 s2 e16] epoch 12 lr 0.00034 train 2.7501
+[SW n1024 rho0 r0.2 s1 e16] epoch 12 lr 0.00034 train 2.7488
+[S n1024 rho0 r0.2 s2 e16] epoch 14 lr 0.00009 train 3.0326
+[S n1024 rho0 r0.2 s1 e16] epoch 14 lr 0.00009 train 3.0345
+[SW n1024 rho0 r0.2 s2 e16] epoch 13 lr 0.00009 train 2.7475
+[SW n1024 rho0 r0.2 s1 e16] epoch 13 lr 0.00009 train 2.7462
+[S n1024 rho0 r0.2 s2 e16] epoch 15 lr 0.00009 train 3.0326
+[S n1024 rho0 r0.2 s1 e16] epoch 15 lr 0.00009 train 3.0344
+[SW n1024 rho0 r0.2 s2 e16] epoch 14 lr 0.00009 train 2.7474
+[SW n1024 rho0 r0.2 s1 e16] epoch 14 lr 0.00009 train 2.7461
+[S n1024 rho0 r0.2 s2 e16] epoch 16 lr 0.00009 train 3.0326
+[S n1024 rho0 r0.2 s2 e16] valid 3.0791 test 3.0148
+[S n1024 rho0 r0.2 s1 e16] epoch 16 lr 0.00009 train 3.0344
+[S n1024 rho0 r0.2 s1 e16] valid 3.0874 test 3.0198
+[SW n1024 rho0 r0.2 s2 e16] epoch 15 lr 0.00009 train 2.7473
+[SW n1024 rho0 r0.2 s1 e16] epoch 15 lr 0.00009 train 2.7460
+[SW n1024 rho0 r0.2 s2 e16] epoch 16 lr 0.00009 train 2.7472
+[SW n1024 rho0 r0.2 s2 e16] valid 2.7993 test 2.7455
+[SW n1024 rho0 r0.2 s1 e16] epoch 16 lr 0.00009 train 2.7460
+[SW n1024 rho0 r0.2 s1 e16] valid 2.8022 test 2.7440
+[SW n1024 rho0 r0.2 s2 e32] epoch  1 lr 0.00137 train 2.9003
+[SW n1024 rho0 r0.2 s1 e32] epoch  1 lr 0.00137 train 2.8997
+[SW n1024 rho0 r0.2 s2 e32] epoch  2 lr 0.00137 train 2.7788
+[SW n1024 rho0 r0.2 s1 e32] epoch  2 lr 0.00137 train 2.7771
+[SW n1024 rho0 r0.2 s2 e32] epoch  3 lr 0.00137 train 2.7688
+[SW n1024 rho0 r0.2 s1 e32] epoch  3 lr 0.00137 train 2.7672
+[SW n1024 rho0 r0.2 s2 e32] epoch  4 lr 0.00137 train 2.7649
+[SW n1024 rho0 r0.2 s1 e32] epoch  4 lr 0.00137 train 2.7634
+[SW n1024 rho0 r0.2 s2 e32] epoch  5 lr 0.00137 train 2.7628
+[SW n1024 rho0 r0.2 s1 e32] epoch  5 lr 0.00137 train 2.7613
+[SW n1024 rho0 r0.2 s2 e32] epoch  6 lr 0.00137 train 2.7614
+[SW n1024 rho0 r0.2 s1 e32] epoch  6 lr 0.00137 train 2.7600
+[SW n1024 rho0 r0.2 s2 e32] epoch  7 lr 0.00137 train 2.7604
+[SW n1024 rho0 r0.2 s1 e32] epoch  7 lr 0.00137 train 2.7590
+[SW n1024 rho0 r0.2 s2 e32] epoch  8 lr 0.00137 train 2.7597
+[SW n1024 rho0 r0.2 s1 e32] epoch  8 lr 0.00137 train 2.7583
+[SW n1024 rho0 r0.2 s2 e32] epoch  9 lr 0.00137 train 2.7591
+[SW n1024 rho0 r0.2 s1 e32] epoch  9 lr 0.00137 train 2.7578
+[SW n1024 rho0 r0.2 s2 e32] epoch 10 lr 0.00137 train 2.7587
+[SW n1024 rho0 r0.2 s1 e32] epoch 10 lr 0.00137 train 2.7574
+[SW n1024 rho0 r0.2 s2 e32] epoch 11 lr 0.00137 train 2.7584
+[SW n1024 rho0 r0.2 s1 e32] epoch 11 lr 0.00137 train 2.7571
+[SW n1024 rho0 r0.2 s2 e32] epoch 12 lr 0.00137 train 2.7582
+[SW n1024 rho0 r0.2 s1 e32] epoch 12 lr 0.00137 train 2.7568
+[SW n1024 rho0 r0.2 s2 e32] epoch 13 lr 0.00137 train 2.7580
+[SW n1024 rho0 r0.2 s1 e32] epoch 13 lr 0.00137 train 2.7566
+[SW n1024 rho0 r0.2 s2 e32] epoch 14 lr 0.00137 train 2.7578
+[SW n1024 rho0 r0.2 s1 e32] epoch 14 lr 0.00137 train 2.7565
+[SW n1024 rho0 r0.2 s2 e32] epoch 15 lr 0.00137 train 2.7576
+[SW n1024 rho0 r0.2 s1 e32] epoch 15 lr 0.00137 train 2.7563
+[SW n1024 rho0 r0.2 s2 e32] epoch 16 lr 0.00137 train 2.7575
+[SW n1024 rho0 r0.2 s1 e32] epoch 16 lr 0.00137 train 2.7562
+[SW n1024 rho0 r0.2 s2 e32] epoch 17 lr 0.00034 train 2.7493
+[SW n1024 rho0 r0.2 s1 e32] epoch 17 lr 0.00034 train 2.7480
+[SW n1024 rho0 r0.2 s2 e32] epoch 18 lr 0.00034 train 2.7487
+[SW n1024 rho0 r0.2 s1 e32] epoch 18 lr 0.00034 train 2.7474
+[SW n1024 rho0 r0.2 s2 e32] epoch 19 lr 0.00034 train 2.7486
+[SW n1024 rho0 r0.2 s1 e32] epoch 19 lr 0.00034 train 2.7473
+[SW n1024 rho0 r0.2 s2 e32] epoch 20 lr 0.00034 train 2.7486
+[SW n1024 rho0 r0.2 s1 e32] epoch 20 lr 0.00034 train 2.7473
+[SW n1024 rho0 r0.2 s2 e32] epoch 21 lr 0.00034 train 2.7485
+[SW n1024 rho0 r0.2 s1 e32] epoch 21 lr 0.00034 train 2.7472
+[SW n1024 rho0 r0.2 s2 e32] epoch 22 lr 0.00034 train 2.7485
+[SW n1024 rho0 r0.2 s1 e32] epoch 22 lr 0.00034 train 2.7472
+[SW n1024 rho0 r0.2 s2 e32] epoch 23 lr 0.00034 train 2.7485
+[SW n1024 rho0 r0.2 s1 e32] epoch 23 lr 0.00034 train 2.7472
+[SW n1024 rho0 r0.2 s2 e32] epoch 24 lr 0.00034 train 2.7485
+[SW n1024 rho0 r0.2 s1 e32] epoch 24 lr 0.00034 train 2.7471
+[SW n1024 rho0 r0.2 s2 e32] epoch 25 lr 0.00009 train 2.7459
+[SW n1024 rho0 r0.2 s1 e32] epoch 25 lr 0.00009 train 2.7446
+[SW n1024 rho0 r0.2 s2 e32] epoch 26 lr 0.00009 train 2.7458
+[SW n1024 rho0 r0.2 s1 e32] epoch 26 lr 0.00009 train 2.7445
+[SW n1024 rho0 r0.2 s2 e32] epoch 27 lr 0.00009 train 2.7457
+[SW n1024 rho0 r0.2 s1 e32] epoch 27 lr 0.00009 train 2.7444
+[SW n1024 rho0 r0.2 s2 e32] epoch 28 lr 0.00009 train 2.7457
+[SW n1024 rho0 r0.2 s1 e32] epoch 28 lr 0.00009 train 2.7444
+[SW n1024 rho0 r0.2 s2 e32] epoch 29 lr 0.00009 train 2.7457
+[SW n1024 rho0 r0.2 s1 e32] epoch 29 lr 0.00009 train 2.7444
+[SW n1024 rho0 r0.2 s2 e32] epoch 30 lr 0.00009 train 2.7457
+[SW n1024 rho0 r0.2 s1 e32] epoch 30 lr 0.00009 train 2.7444
+[SW n1024 rho0 r0.2 s2 e32] epoch 31 lr 0.00009 train 2.7457
+[SW n1024 rho0 r0.2 s1 e32] epoch 31 lr 0.00009 train 2.7444
+[SW n1024 rho0 r0.2 s2 e32] epoch 32 lr 0.00009 train 2.7457
+[SW n1024 rho0 r0.2 s2 e32] valid 2.7981 test 2.7443
+[SW n1024 rho0 r0.2 s1 e32] epoch 32 lr 0.00009 train 2.7444
+[SW n1024 rho0 r0.2 s1 e32] valid 2.8009 test 2.7427
