@@ -12,3 +12,5 @@ pub use kdmd_snn;
 pub mod corpus;
 pub mod reservoir;
 pub mod common;
+pub mod encoding;
+pub mod snn;

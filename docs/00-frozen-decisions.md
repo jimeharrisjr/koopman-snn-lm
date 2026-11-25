@@ -66,3 +66,11 @@ Fixed since the freeze:
 - 2026-11-24: `kdmd-snn` pinned to revision `e8480f5` of
   `koopman-based-SNN` (replacing the local path dependency). Any bump is a
   commit of its own, made before the run it governs.
+- 2026-11-24: the text8 subset and split (`docs/01-rung1-preregistration.md`).
+- 2026-11-24: the three GRU sizes — hidden 64, 128 and 292 — the seed count
+  (3) and the machine per seed (all on the Mac), in
+  `docs/05-rung3-preregistration.md`. Arm-level resume stands in for
+  checkpointing at rung 3.
+
+Still open: the board-power instrument and the Raspberry Pi measurement,
+which rung 3's registration records as outstanding.
